@@ -16,6 +16,7 @@ RUN apt-get update && \
     python-pip \
     strace \
     libhdf5-cpp-11 \
+    libbz2-dev \  
     python3 python3-setuptools libboost-all-dev \
     python3-h5py python3-numpy python3-dateutil python3-progressbar \
     libboost-filesystem1.58.0 libboost-program-options1.58.0 \
@@ -84,6 +85,10 @@ RUN wget "ftp://ftp.ncbi.nlm.nih.gov/blast/executables/LATEST/ncbi-blast-2.7.1+-
     tar zxvpf ncbi-blast-2.7.1+-x64-linux.tar.gz && \ 
     rm ncbi-blast-2.7.1+-x64-linux.tar.gz
 
+RUN wget "ftp://ftp.genome.umd.edu/pub/MaSuRCA/latest/MaSuRCA-3.2.4.tar.gz" && \  
+    tar -xzvf MaSuRCA-3.2.4.tar.gz && \
+    cd MaSuRCA-3.2.4 && ./install.sh && cd ..
+
 COPY scripts /home/jovyan/scripts
 RUN wget "https://downloads.sourceforge.net/project/rpore/0.24/poRe_0.24.tar.gz" && \
     cat /home/jovyan/scripts/CRAN_repbydefault.txt  >> /home/jovyan/.Rprofile && \
@@ -94,10 +99,9 @@ RUN wget "https://codeload.github.com/fenderglass/Flye/tar.gz/2.3.1" && \
     tar -xzvf 2.3.1 && \ 
     rm 2.3.1
 
-RUN wget "https://codeload.github.com/jts/nanopolish/tar.gz/v0.8.5" && \ 
-    tar -xzvf v0.8.5 && \
-    rm v0.8.5 && \  
-    chown -R jovyan nanopolish-0.8.5
+RUN git clone --recursive https://github.com/jts/nanopolish.git && \
+    cd nanopolish && \
+    make
 
 RUN wget "https://sourceforge.net/projects/bowtie-bio/files/bowtie2-2.3.4.1-linux-x86_64.zip" && \
     unzip bowtie2-2.3.4.1-linux-x86_64.zip -d ~/software
@@ -109,9 +113,6 @@ RUN wget -O- https://mirror.oxfordnanoportal.com/apt/ont-repo.pub | apt-key add 
    apt-get install -y python3-ont-fast5-api && \ 
    dpkg -i python3-ont-albacore_2.1.10-1~xenial_amd64.deb && \
    apt-get install -fy
-
-RUN chown -R jovyan /home/jovyan/notebooks
-
 
 WORKDIR /home/jovyan/notebooks
 
@@ -130,7 +131,8 @@ ENV PATH "$PATH:/home/jovyan/software/quast"
 ENV PATH "$PATH:/home/jovyan/software/miniasm"
 ENV PATH "$PATH:/home/jovyan/software/pilon"
 ENV PATH "$PATH:/home/jovyan/software/Flye-2.3.1/bin"
-ENV PATH "$PATH:/home/jovyan/software/nanopolish-0.8.5/scripts"
+ENV PATH "$PATH:/home/jovyan/software/nanopolish"
+ENV PATH "$PATH:/home/jovyan/software/MaSuRCA-3.2.4/bin"
 
 USER jovyan
 CMD jupyter lab --allow-root
