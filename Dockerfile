@@ -101,7 +101,7 @@ RUN wget "https://codeload.github.com/fenderglass/Flye/tar.gz/2.3.1" && \
 
 RUN git clone --recursive https://github.com/jts/nanopolish.git && \
     cd nanopolish && \
-    make
+    make && cd ..
 
 RUN wget "https://sourceforge.net/projects/bowtie-bio/files/bowtie2-2.3.4.1-linux-x86_64.zip" && \
     unzip bowtie2-2.3.4.1-linux-x86_64.zip -d ~/software
