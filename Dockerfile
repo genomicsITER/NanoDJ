@@ -81,7 +81,7 @@ RUN wget "https://sourceforge.net/projects/bio-bwa/files/bwa-0.7.15.tar.bz2" && 
     rm bwa-0.7.15.tar.bz2 && \ 
     cd bwa-0.7.15 && make && cd ..
 
-RUN wget "ftp://ftp.ncbi.nlm.nih.gov/blast/executables/LATEST/ncbi-blast-2.7.1+-x64-linux.tar.gz" && \
+RUN wget "https://ftp.ncbi.nlm.nih.gov/blast/executables/LATEST/ncbi-blast-2.7.1+-x64-linux.tar.gz" && \
     tar zxvpf ncbi-blast-2.7.1+-x64-linux.tar.gz && \ 
     rm ncbi-blast-2.7.1+-x64-linux.tar.gz
 
