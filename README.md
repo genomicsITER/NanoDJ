@@ -2,7 +2,7 @@
 
 NanoDJ is a Jupyter notebook integration of tools for simplified manipulation and assembly of DNA sequences produced by ONT devices. It integrates basecalling, read trimming and quality control, simulation and plotting routines with a variety of widely used aligners and assemblers, including procedures for hybrid assembly. 
 
-NanoDJ is built as a Docker container that runs a Jupyter Lab instance. The user can work with ONT data using the notebooks that are provided or open a new Jupyter Lab session and run the icluded software packages.
+NanoDJ is built as a Docker container that runs a Jupyter Lab instance. The user can work with ONT data using the notebooks that are provided or open a new Jupyter Lab session and run the included software packages.
 
 *NanoDJ has been tested using a clean Ubuntu virtual machine only with Docker v1.13.1 installed*
 
@@ -19,12 +19,24 @@ docker build -t nanodj:latest .
 Create a container with the image:
 
 ```
-docker run -it --rm -p 8888:8888 -v nanodj_notebooks:/home/jovyan/notebooks nanodj:latest
+docker run -it --rm -p 8888:8888 -v /path/to/nanodjrepo/nanodj_notebooks:/home/jovyan/notebooks nanodj:latest
 ```
 
 Open the localhost:8888/*token* link that appears in the output after the Jupyter Lab instance is started.
 
 NanoDJ includes data and notebooks. However, a volume (the -v option) should be created to import these materials. With this volume, input and output data and modified notebooks can be saved on your host machine. 
+
+**Mac users**
+
+Notebooks directory must be added in the Docker GUI options (on file sharing section) before mounting that directory. Once it is in the list, volume should be mounted with the -v option as usual.
+
+**Windows users**
+
+Check that the directory that is going to be mounted is under the C:\Users directory. This path is written as "/c/Users/" in the -v option.
+
+*On Windows 8.1, the Jupyter Lab instance cannot be accessed from localhost:8888/lab. "localhost" must be replaced with the IP of the VM that runs Docker on your system.*
+
+### Additional data
 
 **Escherichia coli data links:**
 
@@ -43,3 +55,11 @@ NanoDJ includes data and notebooks. However, a volume (the -v option) should be 
 **Streptococcus agalactiae Illumina reads (PE300) and R9.0 SpotON FAST5 files:**
 
 - To be released.
+
+### **NanoDJ support: **
+
+Feel free to open a new issue on this repository or contact us by email: *genomica@iter.es*
+
+### **How to cite NanoDJ:**
+
+Rodríguez-Pérez H, Hernández-Beeftink T, Lorenzo-Salazar JM, Roda-García JL, Pérez-González CJ, Colebrook M, Flores C. (2018) NanoDJ: A Dockerized Jupyter Notebook for Interactive Oxford Nanopore MinION Sequence Manipulation and Genome Assembly. Submitted.
