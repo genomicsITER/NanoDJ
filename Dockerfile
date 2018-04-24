@@ -85,7 +85,7 @@ RUN wget "https://ftp.ncbi.nlm.nih.gov/blast/executables/LATEST/ncbi-blast-2.7.1
     tar zxvpf ncbi-blast-2.7.1+-x64-linux.tar.gz && \ 
     rm ncbi-blast-2.7.1+-x64-linux.tar.gz
 
-RUN wget "https://ftp.genome.umd.edu/pub/MaSuRCA/latest/MaSuRCA-3.2.4.tar.gz" && \  
+RUN wget "https://github.com/alekseyzimin/masurca/files/1668918/MaSuRCA-3.2.4.tar.gz" && \  
     tar -xzvf MaSuRCA-3.2.4.tar.gz && \
     cd MaSuRCA-3.2.4 && ./install.sh && cd ..
 
