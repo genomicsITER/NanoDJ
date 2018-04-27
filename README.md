@@ -36,6 +36,16 @@ Check that the directory that is going to be mounted is under the C:\Users direc
 
 *On Windows 8.1, the Jupyter Lab instance cannot be accessed from localhost:8888/lab. "localhost" must be replaced with the IP of the VM that runs Docker on your system.*
 
+**Write permission on notebook files**
+
+Files and directories mounted as a volume doesn't have the [UID and GID](https://en.wikipedia.org/wiki/User_identifier) of the container's user (*jovyan*) so changes in notebooks can't be saved. You should change the owner of the mounted files with this command on your host machine after cloning the repository.
+
+```
+sudo chown -R 1000:100 ./nanodj_notebooks
+```
+
+With this command we change the owner recursively setting the UID and GID with the *jovyan* user values.
+
 ### Additional data
 
 **Escherichia coli data links:**
@@ -56,7 +66,7 @@ Check that the directory that is going to be mounted is under the C:\Users direc
 
 - To be released.
 
-### **NanoDJ support: **
+### **NanoDJ support:**
 
 Feel free to open a new issue on this repository or contact us by email: *genomica@iter.es*
 

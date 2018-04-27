@@ -12,5 +12,6 @@
 | **6_QUAST.ipynb**                       | Assembly comparison in the browser using QUAST               |
 | **7_Nanosim.ipynb**                     | Simmulating reads with Nanosim software and Nanosim-h fork with precomputed models |
 | **8_Rebaler_alignment.ipynb**           | Reference based assembly using Rebaler                       |
+| **9_Bandage.ipynb**                     | Assembly graph Visualization                                 |
 | **edu_notebook.ipynb**                  | Quality control and metagenomics exercise using Python and BLAST |
 

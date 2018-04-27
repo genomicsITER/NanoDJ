@@ -114,6 +114,13 @@ RUN wget -O- https://mirror.oxfordnanoportal.com/apt/ont-repo.pub | apt-key add 
    dpkg -i python3-ont-albacore_2.1.10-1~xenial_amd64.deb && \
    apt-get install -fy
 
+RUN apt-get -y install gnuplot-x11 qt5-default
+
+RUN mkdir Bandage && cd Bandage && \  
+    wget "https://github.com/rrwick/Bandage/releases/download/v0.8.1/Bandage_Ubuntu_dynamic_v0_8_1.zip" && \  
+    unzip Bandage_Ubuntu_dynamic_v0_8_1.zip && \  
+    rm Bandage_Ubuntu_dynamic_v0_8_1.zip 
+
 WORKDIR /home/jovyan/notebooks
 
 ENV PATH "$PATH:/home/jovyan/software/ncbi-blast-2.7.1+/bin"
@@ -133,6 +140,7 @@ ENV PATH "$PATH:/home/jovyan/software/pilon"
 ENV PATH "$PATH:/home/jovyan/software/Flye-2.3.1/bin"
 ENV PATH "$PATH:/home/jovyan/software/nanopolish"
 ENV PATH "$PATH:/home/jovyan/software/MaSuRCA-3.2.4/bin"
+ENV PATH "$PATH:/home/jovyan/software/Bandage"
 
 USER jovyan
 CMD jupyter lab --allow-root
