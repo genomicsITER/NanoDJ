@@ -8,13 +8,15 @@ NanoDJ is built as a Docker container that runs a Jupyter Lab instance. The user
 
 ### **Run NanoDJ container:**
 
-Clone the repository and build the image locally (soon on Dockerhub):
+Clone the repository and pull the image from Dockerhub (recommended):
 
 ```
 git clone https://github.com/genomicsITER/NanoDJ.git
 cd NanoDJ
-docker build -t nanodj:latest .
+docker pull hecrp/nanodj:latest
 ```
+
+*The NanoDJ image can be also built locally using *docker build -t nanodj:latest .*
 
 Create a container with the image:
 
@@ -72,4 +74,4 @@ Feel free to open a new issue on this repository or contact us by email: *genomi
 
 ### **How to cite NanoDJ:**
 
-Rodríguez-Pérez H, Hernández-Beeftink T, Lorenzo-Salazar JM, Roda-García JL, Pérez-González CJ, Colebrook M, Flores C. (2018) NanoDJ: A Dockerized Jupyter Notebook for Interactive Oxford Nanopore MinION Sequence Manipulation and Genome Assembly. Submitted.
+odríguez-Pérez H, Hernández-Beeftink T, Lorenzo-Salazar JM, Roda-García JL, Pérez-González CJ, Colebrook M, Flores C. (2018) NanoDJ: A Dockerized Jupyter Notebook for Interactive Oxford Nanopore MinION Sequence Manipulation and Genome Assembly. Submitted.
