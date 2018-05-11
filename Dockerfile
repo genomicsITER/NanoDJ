@@ -70,7 +70,7 @@ RUN wget "https://sourceforge.net/projects/bowtie-bio/files/bowtie2/2.3.3/bowtie
 RUN wget "https://sourceforge.net/projects/samtools/files/samtools/1.5/samtools-1.5.tar.bz2" && \
     tar -xvjf samtools-1.5.tar.bz2 && rm samtools-1.5.tar.bz2
 
-RUN mkdir pilon &&  
+RUN mkdir pilon && \ 
     cd pilon && \ 
     wget "https://github.com/broadinstitute/pilon/releases/download/v1.22/pilon-1.22.jar" && \
     chown jovyan pilon-1.22.jar && \ 
