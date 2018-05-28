@@ -74,4 +74,4 @@ Feel free to open a new issue on this repository or contact us by email: *genomi
 
 ### **How to cite NanoDJ:**
 
-odríguez-Pérez H, Hernández-Beeftink T, Lorenzo-Salazar JM, Roda-García JL, Pérez-González CJ, Colebrook M, Flores C. (2018) NanoDJ: A Dockerized Jupyter Notebook for Interactive Oxford Nanopore MinION Sequence Manipulation and Genome Assembly. Submitted.
+Rodríguez-Pérez H, Hernández-Beeftink T, Lorenzo-Salazar JM, Roda-García JL, Pérez-González CJ, Colebrook M, Flores C. (2018) NanoDJ: A Dockerized Jupyter Notebook for Interactive Oxford Nanopore MinION Sequence Manipulation and Genome Assembly. Submitted.
