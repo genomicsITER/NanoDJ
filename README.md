@@ -2,6 +2,8 @@
 
 NanoDJ is a Jupyter notebook integration of tools for simplified manipulation and assembly of DNA sequences produced by ONT devices. It integrates basecalling, read trimming and quality control, simulation and plotting routines with a variety of widely used aligners and assemblers, including procedures for hybrid assembly. 
 
+![alt text](https://imgur.com/a/lBfIATc "NanoDJ-pipeline")
+
 NanoDJ is built as a Docker container that runs a Jupyter Lab instance. The user can work with ONT data using the notebooks that are provided or open a new Jupyter Lab session and run the included software packages.
 
 *NanoDJ has been tested using a clean Ubuntu virtual machine only with Docker v1.13.1 installed*

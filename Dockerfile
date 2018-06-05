@@ -16,7 +16,7 @@ RUN apt-get update && \
     python-pip \
     strace \
     libhdf5-cpp-11 \
-    libbz2-dev \  
+    libbz2-dev \ 
     python3 python3-setuptools libboost-all-dev \
     python3-h5py python3-numpy python3-dateutil python3-progressbar \
     libboost-filesystem1.58.0 libboost-program-options1.58.0 \
@@ -57,10 +57,6 @@ RUN git clone https://github.com/rrwick/Rebaler.git && \
     cd Rebaler && \
     python3 setup.py install
 
-RUN git clone https://github.com/fenderglass/Flye && \  
-    cd Flye && \  
-    python2 setup.py build
-
 RUN wget "http://cab.spbu.ru/files/release3.11.0/SPAdes-3.11.0-Linux.tar.gz" && \
     tar -xvzf SPAdes-3.11.0-Linux.tar.gz && rm SPAdes-3.11.0-Linux.tar.gz
 
@@ -89,14 +85,15 @@ RUN wget "https://github.com/alekseyzimin/masurca/files/1668918/MaSuRCA-3.2.4.ta
     tar -xzvf MaSuRCA-3.2.4.tar.gz && \
     cd MaSuRCA-3.2.4 && ./install.sh && cd ..
 
-COPY scripts /home/jovyan/scripts
 RUN wget "https://downloads.sourceforge.net/project/rpore/0.24/poRe_0.24.tar.gz" && \
-    cat /home/jovyan/scripts/CRAN_repbydefault.txt  >> /home/jovyan/.Rprofile && \
-    Rscript /home/jovyan/scripts/pore_dependencies.R && \ 
+    echo 'local({r <- getOption("repos"); r["CRAN"] <- "http://cran.cnr.berkeley.edu/"; options(repos = r)})'  >> /home/jovyan/.Rprofile && \
+    R -e "source('http://www.bioconductor.org/biocLite.R'); biocLite('rhdf5'); install.packages(c('shiny','svDialogs','data.table','bit64'))" && \ 
     R CMD INSTALL poRe_0.24.tar.gz
 
 RUN wget "https://codeload.github.com/fenderglass/Flye/tar.gz/2.3.1" && \
-    tar -xzvf 2.3.1 && \ 
+    tar -xzvf 2.3.1 && \  
+    cd Flye-2.3.1 && \  
+    python2 setup.py install && cd .. && \
     rm 2.3.1
 
 RUN git clone --recursive https://github.com/jts/nanopolish.git && \
@@ -109,10 +106,10 @@ RUN wget "https://sourceforge.net/projects/bowtie-bio/files/bowtie2-2.3.4.1-linu
 RUN wget -O- https://mirror.oxfordnanoportal.com/apt/ont-repo.pub | apt-key add - && \
     echo "deb http://mirror.oxfordnanoportal.com/apt xenial-stable non-free" | tee /etc/apt/sources.list.d/nanoporetech.sources.list && \
     apt-get update && \ 
-    wget -qO python3-ont-albacore_2.1.10-1~xenial_amd64.deb https://mirror.oxfordnanoportal.com/software/analysis/python3-ont-albacore_2.1.10-1~xenial_amd64.deb && \
+    wget -qO python3-ont-albacore_2.3.0-1~xenial_amd64.deb https://mirror.oxfordnanoportal.com/software/analysis/python3-ont-albacore_2.3.0-1~xenial_amd64.deb && \
    apt-get install -y python3-ont-fast5-api && \ 
-   dpkg -i python3-ont-albacore_2.1.10-1~xenial_amd64.deb && \
-   apt-get install -fy
+   dpkg -i python3-ont-albacore_2.3.0-1~xenial_amd64.deb && \
+apt-get install -fy
 
 RUN apt-get -y install gnuplot-x11 qt5-default
 
