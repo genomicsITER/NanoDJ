@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/G1z4hMT.png "NanoDJ-logo")
+![alt text](https://i.imgur.com/UmUUyLp.png "NanoDJ-logo")
 
 NanoDJ is a Jupyter notebook integration of tools for simplified manipulation and assembly of DNA sequences produced by ONT devices. It integrates basecalling, read trimming and quality control, simulation and plotting routines with a variety of widely used aligners and assemblers, including procedures for hybrid assembly. 
 
@@ -72,8 +72,12 @@ With this command we change the owner recursively setting the UID and GID with t
 
 ### **NanoDJ support:**
 
-Feel free to open a new issue on this repository or contact us by email: *genomica@iter.es*
+Feel free to open a new issue on this repository or contact us by email: *genomica@iter.es*  
+
+**NanoDJ image logo by Daniel Medina (IG:@danymedale)**  
 
 ### **How to cite NanoDJ:**
 
-Rodríguez-Pérez H, Hernández-Beeftink T, Lorenzo-Salazar JM, Roda-García JL, Pérez-González CJ, Colebrook M, Flores C. (2018) NanoDJ: A Dockerized Jupyter Notebook for Interactive Oxford Nanopore MinION Sequence Manipulation and Genome Assembly. Submitted.
+Rodríguez-Pérez H, Hernández-Beeftink T, Lorenzo-Salazar JM, Roda-García JL, Pérez-González CJ, Colebrook M, Flores C. (2018) NanoDJ: A Dockerized Jupyter Notebook for Interactive Oxford Nanopore MinION Sequence Manipulation and Genome Assembly. Submitted.  
+
+*NanoDJ image logo by Daniel Medina (IG:@danymedale)*  
