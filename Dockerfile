@@ -60,9 +60,6 @@ RUN git clone https://github.com/rrwick/Rebaler.git && \
 RUN wget "http://cab.spbu.ru/files/release3.11.0/SPAdes-3.11.0-Linux.tar.gz" && \
     tar -xvzf SPAdes-3.11.0-Linux.tar.gz && rm SPAdes-3.11.0-Linux.tar.gz
 
-RUN wget "https://sourceforge.net/projects/bowtie-bio/files/bowtie2/2.3.3/bowtie2-2.3.3-linux-x86_64.zip" && \
-    unzip bowtie2-2.3.3-linux-x86_64.zip -d ~ && rm bowtie2-2.3.3-linux-x86_64.zip
-
 RUN wget "https://sourceforge.net/projects/samtools/files/samtools/1.5/samtools-1.5.tar.bz2" && \
     tar -xvjf samtools-1.5.tar.bz2 && rm samtools-1.5.tar.bz2
 
@@ -118,7 +115,6 @@ RUN mkdir Bandage && cd Bandage && \
     unzip Bandage_Ubuntu_dynamic_v0_8_1.zip && \  
     rm Bandage_Ubuntu_dynamic_v0_8_1.zip 
 
-WORKDIR /home/jovyan/notebooks
 
 ENV PATH "$PATH:/home/jovyan/software/ncbi-blast-2.7.1+/bin"
 ENV PATH "$PATH:/home/jovyan/software/Porechop"
@@ -140,4 +136,6 @@ ENV PATH "$PATH:/home/jovyan/software/MaSuRCA-3.2.4/bin"
 ENV PATH "$PATH:/home/jovyan/software/Bandage"
 
 USER jovyan
+WORKDIR /home/jovyan/notebooks
+
 CMD jupyter lab --allow-root
