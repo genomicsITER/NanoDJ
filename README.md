@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/genomicsITER/NanoDJ/binder)
+
 ![alt text](https://i.imgur.com/UmUUyLp.png "NanoDJ-logo")
 
 NanoDJ is a Jupyter notebook integration of tools for simplified manipulation and assembly of DNA sequences produced by ONT devices. It integrates basecalling, read trimming and quality control, simulation and plotting routines with a variety of widely used aligners and assemblers, including procedures for hybrid assembly. 
