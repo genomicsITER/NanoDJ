@@ -21,7 +21,7 @@ RUN apt-get update && \
     python3-h5py python3-numpy python3-dateutil python3-progressbar \
     libboost-filesystem1.58.0 libboost-program-options1.58.0 \
     libboost-system1.58.0 libboost-log1.58.0 libboost-thread1.58.0 \
-    libboost-python1.58.0
+    libboost-python1.58.0 graphviz
 
 
 RUN pip install bash_kernel biopython nanosim-h jupyterlab && \
@@ -189,8 +189,8 @@ RUN echo '***********************************' && \
     echo '*******Installing Nanosim *********' && \
     echo '***********************************' && \
     wget "https://github.com/bcgsc/NanoSim/archive/v2.1.0.tar.gz" && \
-    tar -xzvf NanoSim-2.1.0.tar.gz && \
-    rm NanoSim-2.1.0.tar.gz
+    tar -xzvf v2.1.0.tar.gz && \
+    rm v2.1.0.tar.gz
 
 
 ENV PATH "$PATH:/home/jovyan/software/ncbi-blast-2.7.1+/bin"
@@ -211,6 +211,7 @@ ENV PATH "$PATH:/home/jovyan/software/Flye-2.3.6/bin"
 ENV PATH "$PATH:/home/jovyan/software/nanopolish"
 ENV PATH "$PATH:/home/jovyan/software/MaSuRCA-3.2.8/bin"
 ENV PATH "$PATH:/home/jovyan/software/Bandage"
+ENV PATH "$PATH:/home/jovyan/software/Nanosim-2.1.0/src"
 
 USER jovyan
 WORKDIR /home/jovyan/notebooks
