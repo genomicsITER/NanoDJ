@@ -76,8 +76,8 @@ With this command we change the owner recursively setting the UID and GID with t
 
 Feel free to open a new issue on this repository or contact us by email: *genomica@iter.es*  
 
-**NanoDJ image logo by Daniel Medina (IG:@danymedale)**  
-
 ### **How to cite NanoDJ:**
 
 Rodríguez-Pérez H, Hernández-Beeftink T, Lorenzo-Salazar JM, Roda-García JL, Pérez-González CJ, Colebrook M, Flores C. (2018) NanoDJ: A Dockerized Jupyter Notebook for Interactive Oxford Nanopore MinION Sequence Manipulation and Genome Assembly. Submitted.  
+
+**NanoDJ image logo by Daniel Medina (IG:@danymedale)**  

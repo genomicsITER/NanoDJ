@@ -185,6 +185,14 @@ RUN echo '***********************************' && \
     unzip Bandage_Ubuntu_dynamic_v0_8_1.zip && \  
     rm Bandage_Ubuntu_dynamic_v0_8_1.zip 
 
+RUN echo '***********************************' && \
+    echo '*******Installing Nanosim *********' && \
+    echo '***********************************' && \
+    wget "https://github.com/bcgsc/NanoSim/archive/v2.1.0.tar.gz" && \
+    tar -xzvf NanoSim-2.1.0.tar.gz && \
+    rm NanoSim-2.1.0.tar.gz
+
+
 ENV PATH "$PATH:/home/jovyan/software/ncbi-blast-2.7.1+/bin"
 ENV PATH "$PATH:/home/jovyan/software/Porechop"
 ENV PATH "$PATH:/home/jovyan/software/SPAdes-3.13.0-Linux/bin"
