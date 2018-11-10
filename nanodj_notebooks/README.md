@@ -1,4 +1,3 @@
-```markdown
 ### NanoDJ notebooks index
 
 | Notebook                                | Description                                                  |
@@ -15,4 +14,3 @@
 | **8.0_Alignment.ipynb**                 | Reference-based assembly using either BWA, BLAST or Rebaler software                       |
 | **9.0_AssemblyGraph.ipynb**             | Assembly graph visualization.                                |
 | **Educational.ipynb**                   | Performs basecalling (with Albacore), quality control steps, and a BLAST-based classification of the reads (for educational purposes) |
-```
