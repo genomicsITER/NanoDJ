@@ -1,0 +1,60 @@
+
+Found perl:
+   /usr/bin/perl
+   This is perl 5, version 22, subversion 1 (v5.22.1) built for x86_64-linux-gnu-thread-multi
+
+Found java:
+   /usr/bin/java
+   openjdk version "1.8.0_181"
+
+Found canu:
+   /home/jovyan/software/canu/Linux-amd64/bin/canu
+   Canu snapshot v1.8 +43 changes (r9253 ceda4d6ec5d7a3c9e261908314dcfa80562e6e9a)
+
+Running job 1 based on command line options.
+Dumping reads from 1 to 3604 (inclusive).
+
+Starting mhap precompute.
+
+Running with these settings:
+--filter-threshold = 1.0E-7
+--help = false
+--max-shift = 0.2
+--min-olap-length = 50
+--min-store-length = 0
+--no-rc = false
+--no-self = false
+--no-tf = false
+--num-hashes = 768
+--num-min-matches = 2
+--num-threads = 2
+--ordered-kmer-size = 12
+--ordered-sketch-size = 1536
+--repeat-idf-scale = 10.0
+--repeat-weight = 0.9
+--settings = 0
+--store-full-id = true
+--supress-noise = 0
+--threshold = 0.78
+--version = false
+-f = ../../0-mercounts/agalactiae.ms16.ignore.gz
+-h = false
+-k = 16
+-p = ./000001.input.fasta
+-q = .
+-s = 
+
+Reading in filter file ../../0-mercounts/agalactiae.ms16.ignore.gz.
+Read in values for repeat 1446 and 0
+Warning, k-mer filter file has zero elements.
+Initializing
+Trying size 1446 and it was successfull
+Initialized
+Time (s) to read filter file: 0.399147432
+Read in k-mer filter for sizes: [16]
+Processing FASTA files for binary compression...
+Current # sequences loaded and processed from file: 5000...
+Processed 7208 sequences (fwd and rev).
+Read, hashed, and stored file ./000001.input.fasta to ./000001.input.dat.
+Time (s): 723.306976939
+Total time (s): 723.3072157580001

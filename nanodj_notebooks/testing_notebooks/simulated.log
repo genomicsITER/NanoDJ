@@ -1,0 +1,8 @@
+2018-11-10 22:59:25: /opt/conda/bin/nanosim-h -n20 NZ_CP010867.1_Ref.fasta
+2018-11-10 22:59:25: Read error profile
+2018-11-10 22:59:25: Read ECDF of unaligned reads
+2018-11-10 22:59:25: Read ECDF of aligned reads
+2018-11-10 22:59:25: Read in reference genome
+2018-11-10 22:59:26: Start simulation of random reads
+2018-11-10 22:59:29: Start simulation of aligned reads
+2018-11-10 22:59:31: Finished!

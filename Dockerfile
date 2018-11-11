@@ -211,7 +211,7 @@ ENV PATH "$PATH:/home/jovyan/software/Flye-2.3.6/bin"
 ENV PATH "$PATH:/home/jovyan/software/nanopolish"
 ENV PATH "$PATH:/home/jovyan/software/MaSuRCA-3.2.8/bin"
 ENV PATH "$PATH:/home/jovyan/software/Bandage"
-ENV PATH "$PATH:/home/jovyan/software/Nanosim-2.1.0/src"
+ENV PATH "$PATH:/home/jovyan/software/NanoSim-2.1.0/src"
 
 USER jovyan
 WORKDIR /home/jovyan/notebooks

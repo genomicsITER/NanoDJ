@@ -1,0 +1,2 @@
+libID	nonRandom	readType	correctBases	finalTrim	removeDupe	removeSpur	removeChimer	checkSubRead	defaultQV	libName
+1	0	nanopore-raw	consensus	largestCovered	1	1	1	1	20	reads

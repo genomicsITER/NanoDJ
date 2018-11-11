@@ -1,0 +1,12 @@
+Canu v1.8 (+43 commits) r9253 ceda4d6ec5d7a3c9e261908314dcfa80562e6e9a.
+
+Current Working Directory:
+/home/jovyan/notebooks/data/sample/canu_output/correction
+
+Command:
+/home/jovyan/software/canu/Linux-amd64/bin/ovStoreBucketizer \
+  -O ./sample.ovlStore.BUILDING \
+  -S ../sample.seqStore \
+  -C ./sample.ovlStore.config \
+  -f \
+  -b 1
