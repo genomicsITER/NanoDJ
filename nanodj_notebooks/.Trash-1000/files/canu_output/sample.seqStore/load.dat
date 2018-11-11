@@ -1,4 +1,0 @@
-nam 0 /home/jovyan/notebooks/data/sample/reads.fastq
-lib preset=N/A defaultQV=20 isNonRandom=false removeDuplicateReads=true finalTrim=true removeSpurReads=true removeChimericReads=true checkForSubReads=true
-dat 0 0 0 0 3604 34840031 116 2192 0
-sum 3604 34840031 116 2192 0
