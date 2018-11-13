@@ -24,7 +24,7 @@ RUN apt-get update && \
     libboost-python1.58.0 graphviz
 
 
-RUN pip install bash_kernel biopython nanosim-h jupyterlab && \
+RUN pip install bash_kernel biopython nanosim-h jupyterlab HTSeq && \
     python -m bash_kernel.install
 
 RUN echo '**************************************' && \
