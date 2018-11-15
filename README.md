@@ -4,17 +4,17 @@
 
 ![alt text](https://i.imgur.com/UmUUyLp.png "NanoDJ-logo")
 
-NanoDJ is a <a href="http://jupyter.org/" title="Jupyter" target="_blank">Jupyter</a> notebook integration of tools for simplified manipulation and assembly of DNA sequences produced by <a href="https://nanoporetech.com/ target="_blank">ONT</a>  devices. It integrates basecalling, read trimming and quality control, simulation and plotting routines with a variety of widely used aligners and assemblers, including procedures for hybrid assembly. 
+NanoDJ is a <a href="http://jupyter.org/" title="Jupyter" target="_blank">Jupyter</a> notebook integration of tools for simplified manipulation and assembly of DNA sequences produced by <a href="https://nanoporetech.com/" title="Nanopore Technologies" target="_blank">ONT</a>  devices. It integrates basecalling, read trimming and quality control, simulation and plotting routines with a variety of widely used aligners and assemblers, including procedures for hybrid assembly. 
 
 ![alt text](https://i.imgur.com/TFKsDHa.png "NanoDJ-pipeline")
 
-NanoDJ is built as a [Docker](https://www.docker.com/) container that runs a [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/) instance. The user can work with ONT data using the notebooks that are provided or open a new Jupyter Lab session and run the included software packages.
+NanoDJ is built as a <a href="https://www.docker.com/" title="Docker" target="_blank">Docker</a> container that runs a <a href="https://jupyterlab.readthedocs.io/en/stable/" tytle="Jupyter Lab" target="_blank">Jupyter Lab</a> instance. The user can work with ONT data using the notebooks that are provided or open a new Jupyter Lab session and run the included software packages.
 
 *NanoDJ has been tested using a clean Ubuntu virtual machine only with Docker v1.13.1 installed*
 
 ### **Run NanoDJ container:**
 
-Clone the repository and pull the image from [Dockerhub](https://hub.docker.com/) (recommended):
+Clone the repository and pull the image from <a href="https://hub.docker.com/" title="Docker Hub" target="_blank">Dockerhub</a> (recommended):
 
 ```
 git clone https://github.com/genomicsITER/NanoDJ.git
@@ -95,4 +95,4 @@ Rodríguez-Pérez H, Hernández-Beeftink T, Lorenzo-Salazar JM, Roda-García JL,
 
 ### **Funding:**
 
-This research was funded by the Instituto de Salud Carlos III (grants PI14/00844 and PI17/00610), the Spanish Ministry of Science, Innovation and Universities (grant RTC-2017-6471-1; MINECO/AEI/FEDER, UE), the Spanish Ministry of Economy and Competitiveness (grant MTM2016-74877-P), which were co-financed by the European Regional Development Funds ‘A way of making Europe’ from the European Union, and by the agreement OA17/008 with Instituto Tecnológico y de Energías Renovables ([ITER](http://www.iter.es/)) to strengthen scientific and technological education, training, research, development and innovation in Genomics, Personalized Medicine and Biotechnology.
+This research was funded by the Instituto de Salud Carlos III (grants PI14/00844 and PI17/00610), the Spanish Ministry of Science, Innovation and Universities (grant RTC-2017-6471-1; MINECO/AEI/FEDER, UE), the Spanish Ministry of Economy and Competitiveness (grant MTM2016-74877-P), which were co-financed by the European Regional Development Funds ‘A way of making Europe’ from the European Union, and by the agreement OA17/008 with Instituto Tecnológico y de Energías Renovables (<a href="http://www.iter.es/" title="Institute of Technology and Renewable Energy" target="_blank">ITER</a>) to strengthen scientific and technological education, training, research, development and innovation in Genomics, Personalized Medicine and Biotechnology.
