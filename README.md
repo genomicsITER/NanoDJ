@@ -8,6 +8,8 @@ NanoDJ is a <a href="http://jupyter.org/" title="Jupyter" target="_blank">Jupyte
 
 ![alt text](https://i.imgur.com/TFKsDHa.png "NanoDJ-pipeline")
 
+[Text to be shown](google.es"(target|_blank)")
+
 NanoDJ is built as a <a href="https://www.docker.com/" title="Docker" target="_blank">Docker</a> container that runs a <a href="https://jupyterlab.readthedocs.io/en/stable/" tytle="Jupyter Lab" target="_blank">Jupyter Lab</a> instance. The user can work with ONT data using the notebooks that are provided or open a new Jupyter Lab session and run the included software packages.
 
 *NanoDJ has been tested using a clean Ubuntu virtual machine only with Docker v1.13.1 installed*
