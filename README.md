@@ -91,8 +91,8 @@ Feel free to open a new issue on this repository or contact us by email: *genomi
 
 Rodríguez-Pérez H, Hernández-Beeftink T, Lorenzo-Salazar JM, Roda-García JL, Pérez-González CJ, Colebrook M, Flores C. (2018) NanoDJ: A Dockerized Jupyter Notebook for Interactive Oxford Nanopore MinION Sequence Manipulation and Genome Assembly. Submitted.  
 
-**NanoDJ image logo by Daniel Medina (IG:@danymedale)**  
-
 ### **Funding:**
 
 This research was funded by the Instituto de Salud Carlos III (grants PI14/00844 and PI17/00610), the Spanish Ministry of Science, Innovation and Universities (grant RTC-2017-6471-1; MINECO/AEI/FEDER, UE), the Spanish Ministry of Economy and Competitiveness (grant MTM2016-74877-P), which were co-financed by the European Regional Development Funds ‘A way of making Europe’ from the European Union, and by the agreement OA17/008 with Instituto Tecnológico y de Energías Renovables ([ITER](http://www.iter.es/)) to strengthen scientific and technological education, training, research, development and innovation in Genomics, Personalized Medicine and Biotechnology.
+
+**NanoDJ image logo by Daniel Medina (IG:@danymedale)** 
