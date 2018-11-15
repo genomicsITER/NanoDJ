@@ -4,7 +4,7 @@
 
 ![alt text](https://i.imgur.com/UmUUyLp.png "NanoDJ-logo")
 
-NanoDJ is a [Jupyter](http://jupyter.org/) notebook integration of tools for simplified manipulation and assembly of DNA sequences produced by [ONT](https://nanoporetech.com/) devices. It integrates basecalling, read trimming and quality control, simulation and plotting routines with a variety of widely used aligners and assemblers, including procedures for hybrid assembly. 
+NanoDJ is a [Jupyter](http://jupyter.org/){:target="_blank"} notebook integration of tools for simplified manipulation and assembly of DNA sequences produced by [ONT](https://nanoporetech.com/) devices. It integrates basecalling, read trimming and quality control, simulation and plotting routines with a variety of widely used aligners and assemblers, including procedures for hybrid assembly. 
 
 ![alt text](https://i.imgur.com/TFKsDHa.png "NanoDJ-pipeline")
 
