@@ -30,7 +30,7 @@ RUN echo '**************************************' && \
     echo '*******Binder NanoDJ *****************' && \
     echo '**************************************' && \
     git init && \
-    git remote add origin -f https://github.com/cpgonzal/NanoDJ && \
+    git remote add origin -f https://github.com/genomicsIter/NanoDJ && \
     git pull origin binder && \
     rm -rf .git && \
     chown -R jovyan:users ~/notebooks 
