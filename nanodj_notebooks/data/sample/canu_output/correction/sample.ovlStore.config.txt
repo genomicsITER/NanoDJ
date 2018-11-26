@@ -1,0 +1,5 @@
+
+Configured for:
+  numBuckets        1
+  numSlices         2
+  sortMemory        1 GB (0.258 GB)

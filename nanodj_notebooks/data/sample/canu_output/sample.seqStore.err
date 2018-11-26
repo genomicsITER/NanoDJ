@@ -1,0 +1,22 @@
+
+Starting file './sample.seqStore.ssi'.
+
+  Loading reads from '/home/jovyan/notebooks/data/sample/reads.fastq'
+    Processed 18600 lines.
+    Loaded 34840031 bp from:
+      3720 FASTQ format reads (34840031 bp).
+    WARNING: 116 reads (3.1183%) with 2192 bp (0.0063%) were too short (< 50bp) and were ignored.
+
+Finished with:
+  0 warnings (bad base or qv, too short, too long)
+
+Loaded into store:
+  34840031 bp.
+  3604 reads.
+
+Skipped (too short):
+  2192 bp (0.0063%).
+  116 reads (3.1183%).
+
+
+sqStoreCreate finished successfully.

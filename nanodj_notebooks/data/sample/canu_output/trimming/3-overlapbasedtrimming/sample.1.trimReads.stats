@@ -1,0 +1,24 @@
+PARAMETERS:
+----------
+     50    (reads trimmed below this many bases are deleted)
+ 0.1200    (use overlaps at or below this fraction error)
+      1    (break region if overlap is less than this long, for 'largest covered' algorithm)
+      1    (break region if overlap coverage is less than this many read, for 'largest covered' algorithm)
+
+INPUT READS:
+-----------
+  3604 reads     18367583 bases (reads processed)
+     0 reads            0 bases (reads not processed, previously deleted)
+     0 reads            0 bases (reads not processed, in a library where trimming isn't allowed)
+
+OUTPUT READS:
+------------
+  1505 reads      3997139 bases (trimmed reads output)
+    20 reads        86454 bases (reads with no change, kept as is)
+  2079 reads      8730597 bases (reads with no overlaps, deleted)
+     0 reads            0 bases (reads with short trimmed length, deleted)
+
+TRIMMING DETAILS:
+----------------
+  1238 reads      2710629 bases (bases trimmed from the 5' end of a read)
+  1436 reads      2842764 bases (bases trimmed from the 3' end of a read)

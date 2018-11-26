@@ -1,0 +1,7 @@
+Canu v1.8 (+43 commits) r9253 ceda4d6ec5d7a3c9e261908314dcfa80562e6e9a.
+
+Current Working Directory:
+/home/jovyan/notebooks/data/sample/canu_output/correction/0-mercounts
+
+Command:
+/home/jovyan/software/canu/Linux-amd64/bin/meryl threads=2 memory=2 print ./sample.ms16.##.dump at-least threshold=80 at-least word-frequency=0.0000001 ./sample.ms16

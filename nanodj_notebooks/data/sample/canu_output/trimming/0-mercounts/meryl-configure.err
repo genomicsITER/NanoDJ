@@ -1,0 +1,13 @@
+
+Found perl:
+   /usr/bin/perl
+   This is perl 5, version 22, subversion 1 (v5.22.1) built for x86_64-linux-gnu-thread-multi
+
+Found java:
+   /usr/bin/java
+   openjdk version "1.8.0_181"
+
+Found canu:
+   /home/jovyan/software/canu/Linux-amd64/bin/canu
+   Canu snapshot v1.8 +43 changes (r9253 ceda4d6ec5d7a3c9e261908314dcfa80562e6e9a)
+

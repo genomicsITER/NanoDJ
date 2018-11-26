@@ -1,0 +1,62 @@
+
+Found perl:
+   /usr/bin/perl
+   This is perl 5, version 22, subversion 1 (v5.22.1) built for x86_64-linux-gnu-thread-multi
+
+Found java:
+   /usr/bin/java
+   openjdk version "1.8.0_181"
+
+Found canu:
+   /home/jovyan/software/canu/Linux-amd64/bin/canu
+   Canu snapshot v1.8 +43 changes (r9253 ceda4d6ec5d7a3c9e261908314dcfa80562e6e9a)
+
+Running job 1 based on command line options.
+
+Running block 000001 in query 000001
+
+Running with these settings:
+--filter-threshold = 1.0E-7
+--help = false
+--max-shift = 0.2
+--min-olap-length = 50
+--min-store-length = 0
+--no-rc = false
+--no-self = false
+--no-tf = false
+--num-hashes = 768
+--num-min-matches = 2
+--num-threads = 2
+--ordered-kmer-size = 12
+--ordered-sketch-size = 1536
+--repeat-idf-scale = 10.0
+--repeat-weight = 0.9
+--settings = 0
+--store-full-id = true
+--supress-noise = 0
+--threshold = 0.78
+--version = false
+-f = 
+-h = false
+-k = 16
+-p = 
+-q = queries/000001
+-s = ./blocks/000001.dat
+
+Processing files for storage in reverse index...
+Current # sequences loaded and processed from file: 5000...
+Current # sequences stored: 5000...
+Stored 7208 sequences in the index.
+Processed 7208 unique sequences (fwd and rev).
+Time (s) to read and hash from file: 3.8349364570000004
+Time (s) to score and output to self: 14.705068613000002
+Total scoring time (s): 14.705801575
+Total time (s): 18.540908576
+MinHash search time (s): 4.374385210000001
+Total matches found: 170623
+Average number of matches per lookup: 47.34267480577137
+Average number of table elements processed per lookup: 1368.801886792453
+Average number of table elements processed per match: 28.912643664687646
+Average % of hashed sequences hit per lookup: 2.8683984745029876
+Average % of hashed sequences hit that are matches: 22.898051646531805
+Average % of hashed sequences fully compared that are matches: 89.73073889034973

@@ -1,0 +1,31 @@
+
+Found perl:
+   /usr/bin/perl
+   This is perl 5, version 22, subversion 1 (v5.22.1) built for x86_64-linux-gnu-thread-multi
+
+Found java:
+   /usr/bin/java
+   openjdk version "1.8.0_181"
+
+Found canu:
+   /home/jovyan/software/canu/Linux-amd64/bin/canu
+   Canu snapshot v1.8 +43 changes (r9253 ceda4d6ec5d7a3c9e261908314dcfa80562e6e9a)
+
+Running job 1 based on command line options.
+
+Attempting to increase maximum allowed processes and open files.
+./scripts/1-bucketize.sh: 1: ulimit: Illegal option -u
+./scripts/1-bucketize.sh: 1: ulimit: Illegal option -u
+./scripts/1-bucketize.sh: 70: ulimit: Illegal option -u
+./scripts/1-bucketize.sh: 1: ulimit: Illegal option -u
+  Changed max processes per user from  to  (max ).
+  Max open files limited to 1048576, no increase possible.
+
+
+Opened '../sample.seqStore' with 3604 reads.
+
+Constructing slice 1 for store './sample.ovlStore.BUILDING'.
+ - Filtering overlaps over 1.0000 fraction error.
+
+Bucketizing input    1 out of    1 - '1-overlapper/001/000001.ovb'
+Success!

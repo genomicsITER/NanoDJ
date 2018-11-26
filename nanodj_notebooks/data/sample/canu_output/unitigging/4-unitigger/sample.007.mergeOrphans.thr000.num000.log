@@ -1,0 +1,14 @@
+findPotentialOrphans()--
+findPotentialOrphans()-- potential orphan tig       27 length      2419 nReads       5 to   5 tigs:
+findPotentialOrphans()--                  tig        1 length     62882 nReads     156
+findPotentialOrphans()--                  tig        3 length     16455 nReads      21
+findPotentialOrphans()--                  tig       12 length     12812 nReads      19
+findPotentialOrphans()--                  tig       28 length      8030 nReads       5
+findPotentialOrphans()--                  tig       33 length     34984 nReads      13
+
+mergeOrphans()-- Found 1 potential orphans.
+
+findOrphanReadPlacement()--
+findOrphanReadPlacement()--  placed 2 reads into 0 locations
+failedToPlaceAnchor()-- potential orphan tig       27 (reads     5 length     2419) - placed --[0]-- FAILED
+

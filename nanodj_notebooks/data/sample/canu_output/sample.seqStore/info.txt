@@ -1,0 +1,21 @@
+sqMagic            = 0x504b473a756e6162
+sqVersion          = 0x0000000000000006
+
+sqLibrarySize      = 168
+sqReadSize         = 40
+sqMaxLibrariesBits = 6
+sqLibraryNameSize  = 128
+sqMaxReadBits      = 37
+sqMaxReadLenBits   = 21
+
+numLibraries       = 1
+numReads           = 3604
+numBlobs           = 3
+
+numRawReads        = 3604
+numCorrectedReads  = 2318
+numTrimmedReads    = 1525
+
+numRawBases        = 34840031
+numCorrectedBases  = 18367583
+numTrimmedBases    = 4083593

@@ -1,0 +1,8 @@
+Canu v1.8 (+43 commits) r9253 ceda4d6ec5d7a3c9e261908314dcfa80562e6e9a.
+
+Current Working Directory:
+/home/jovyan/notebooks/data/sample/canu_output/trimming/0-mercounts
+
+Command:
+/home/jovyan/software/canu/Linux-amd64/bin/meryl \
+  -C k=22 threads=2 memory=4 count segment=1/01 ../../sample.seqStore

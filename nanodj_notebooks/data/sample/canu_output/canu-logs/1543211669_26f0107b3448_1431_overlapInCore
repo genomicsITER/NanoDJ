@@ -1,0 +1,19 @@
+Canu v1.8 (+43 commits) r9253 ceda4d6ec5d7a3c9e261908314dcfa80562e6e9a.
+
+Current Working Directory:
+/home/jovyan/notebooks/data/sample/canu_output/unitigging/1-overlapper
+
+Command:
+/home/jovyan/software/canu/Linux-amd64/bin/overlapInCore \
+  -t 2 \
+  -k 22 \
+  -k ../0-mercounts/sample.ms22.dump \
+  --hashbits 22 \
+  --hashload 0.8 \
+  --maxerate 0.12 \
+  --minlength 50 \
+  -h 1-3604 \
+  -r 1-3604 \
+  --hashdatalen 4085118 \
+  -o ./001/000001.ovb.WORKING \
+  -s ./001/000001.stats ../../sample.seqStore

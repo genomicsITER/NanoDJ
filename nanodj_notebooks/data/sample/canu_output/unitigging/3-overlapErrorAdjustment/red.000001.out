@@ -1,0 +1,29 @@
+
+Found perl:
+   /usr/bin/perl
+   This is perl 5, version 22, subversion 1 (v5.22.1) built for x86_64-linux-gnu-thread-multi
+
+Found java:
+   /usr/bin/java
+   openjdk version "1.8.0_181"
+
+Found canu:
+   /home/jovyan/software/canu/Linux-amd64/bin/canu
+   Canu snapshot v1.8 +43 changes (r9253 ceda4d6ec5d7a3c9e261908314dcfa80562e6e9a)
+
+Running job 1 based on command line options.
+Read_Frags()-- Loading target reads 1 through 3604 with 4087197 bases.
+Read_Frags()-- 0.049 GB for bases, votes and info.
+
+Read_Olaps()-- Loading 36494 overlaps.
+Read_Olaps()-- 0.001 GB for overlaps..
+
+extractReads()-- Loading reads 2 to 3593 (1391 reads with 4050585 bases) overlaps 0 through 36494.
+extractReads()-- Loaded.
+processReads()-- Launching compute.
+processReads()-- Waiting for compute.
+
+Passed overlaps =      33325  91.3164%
+Failed overlaps =       3169   8.6836%
+
+Bye.

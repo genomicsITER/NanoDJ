@@ -1,0 +1,1447 @@
+H	VN:Z:1.0
+S	read00000009	*	LN:i:483
+S	read00000015	*	LN:i:1446
+S	read00000021	*	LN:i:782
+S	read00000041	*	LN:i:426
+S	read00000050	*	LN:i:1464
+S	read00000054	*	LN:i:2804
+S	read00000063	*	LN:i:12245
+S	read00000067	*	LN:i:1028
+S	read00000068	*	LN:i:5462
+S	read00000070	*	LN:i:63
+S	read00000078	*	LN:i:5759
+S	read00000080	*	LN:i:1875
+S	read00000100	*	LN:i:1450
+S	read00000101	*	LN:i:7567
+S	read00000123	*	LN:i:2828
+S	read00000129	*	LN:i:13050
+S	read00000135	*	LN:i:1696
+S	read00000137	*	LN:i:1940
+S	read00000144	*	LN:i:3601
+S	read00000160	*	LN:i:12485
+S	read00000168	*	LN:i:1311
+S	read00000178	*	LN:i:24917
+S	read00000188	*	LN:i:80
+S	read00000200	*	LN:i:9034
+S	read00000208	*	LN:i:14812
+S	read00000209	*	LN:i:688
+S	read00000218	*	LN:i:223
+S	read00000225	*	LN:i:2096
+S	read00000234	*	LN:i:1669
+S	read00000257	*	LN:i:867
+S	read00000259	*	LN:i:329
+S	read00000278	*	LN:i:6635
+S	read00000279	*	LN:i:9765
+S	read00000304	*	LN:i:756
+S	read00000311	*	LN:i:862
+S	read00000326	*	LN:i:56
+S	read00000337	*	LN:i:1467
+S	read00000352	*	LN:i:2714
+S	read00000367	*	LN:i:1040
+S	read00000373	*	LN:i:11177
+S	read00000378	*	LN:i:77
+S	read00000385	*	LN:i:10437
+S	read00000388	*	LN:i:655
+S	read00000396	*	LN:i:76
+S	read00000403	*	LN:i:7246
+S	read00000407	*	LN:i:355
+S	read00000424	*	LN:i:2277
+S	read00000425	*	LN:i:1263
+S	read00000427	*	LN:i:2967
+S	read00000432	*	LN:i:1333
+S	read00000439	*	LN:i:73
+S	read00000456	*	LN:i:655
+S	read00000460	*	LN:i:57
+S	read00000488	*	LN:i:9155
+S	read00000491	*	LN:i:5459
+S	read00000492	*	LN:i:475
+S	read00000498	*	LN:i:881
+S	read00000499	*	LN:i:736
+S	read00000500	*	LN:i:25111
+S	read00000501	*	LN:i:5181
+S	read00000504	*	LN:i:4679
+S	read00000505	*	LN:i:3990
+S	read00000507	*	LN:i:3147
+S	read00000509	*	LN:i:1133
+S	read00000515	*	LN:i:8460
+S	read00000516	*	LN:i:173
+S	read00000518	*	LN:i:4661
+S	read00000521	*	LN:i:6419
+S	read00000522	*	LN:i:5222
+S	read00000525	*	LN:i:2030
+S	read00000526	*	LN:i:1113
+S	read00000527	*	LN:i:1903
+S	read00000530	*	LN:i:4030
+S	read00000531	*	LN:i:9559
+S	read00000532	*	LN:i:75
+S	read00000534	*	LN:i:2915
+S	read00000536	*	LN:i:2606
+S	read00000538	*	LN:i:1526
+S	read00000541	*	LN:i:2036
+S	read00000542	*	LN:i:3503
+S	read00000546	*	LN:i:2461
+S	read00000552	*	LN:i:9216
+S	read00000560	*	LN:i:245
+S	read00000567	*	LN:i:4007
+S	read00000575	*	LN:i:4571
+S	read00000578	*	LN:i:541
+S	read00000585	*	LN:i:4835
+S	read00000586	*	LN:i:779
+S	read00000587	*	LN:i:2067
+S	read00000598	*	LN:i:1154
+S	read00000616	*	LN:i:2081
+S	read00000620	*	LN:i:1463
+S	read00000624	*	LN:i:2827
+S	read00000625	*	LN:i:1254
+S	read00000632	*	LN:i:4901
+S	read00000639	*	LN:i:3159
+S	read00000642	*	LN:i:683
+S	read00000648	*	LN:i:12717
+S	read00000650	*	LN:i:759
+S	read00000654	*	LN:i:1164
+S	read00000655	*	LN:i:2516
+S	read00000657	*	LN:i:553
+S	read00000666	*	LN:i:8451
+S	read00000668	*	LN:i:6167
+S	read00000669	*	LN:i:3432
+S	read00000671	*	LN:i:1496
+S	read00000673	*	LN:i:6363
+S	read00000675	*	LN:i:62
+S	read00000680	*	LN:i:5408
+S	read00000681	*	LN:i:8913
+S	read00000683	*	LN:i:16761
+S	read00000699	*	LN:i:3282
+S	read00000709	*	LN:i:3723
+S	read00000713	*	LN:i:823
+S	read00000715	*	LN:i:96
+S	read00000717	*	LN:i:11565
+S	read00000721	*	LN:i:6032
+S	read00000723	*	LN:i:771
+S	read00000729	*	LN:i:65
+S	read00000730	*	LN:i:4947
+S	read00000734	*	LN:i:4733
+S	read00000736	*	LN:i:2388
+S	read00000740	*	LN:i:926
+S	read00000741	*	LN:i:3116
+S	read00000748	*	LN:i:3436
+S	read00000749	*	LN:i:780
+S	read00000750	*	LN:i:727
+S	read00000756	*	LN:i:12375
+S	read00000761	*	LN:i:1058
+S	read00000772	*	LN:i:584
+S	read00000774	*	LN:i:2952
+S	read00000776	*	LN:i:6950
+S	read00000778	*	LN:i:2560
+S	read00000781	*	LN:i:1743
+S	read00000791	*	LN:i:5728
+S	read00000792	*	LN:i:3934
+S	read00000795	*	LN:i:7271
+S	read00000801	*	LN:i:2617
+S	read00000802	*	LN:i:1662
+S	read00000805	*	LN:i:3072
+S	read00000809	*	LN:i:839
+S	read00000812	*	LN:i:7911
+S	read00000816	*	LN:i:635
+S	read00000817	*	LN:i:589
+S	read00000822	*	LN:i:9909
+S	read00000823	*	LN:i:2233
+S	read00000834	*	LN:i:598
+S	read00000836	*	LN:i:733
+S	read00000838	*	LN:i:4507
+S	read00000841	*	LN:i:5146
+S	read00000842	*	LN:i:6441
+S	read00000846	*	LN:i:666
+S	read00000865	*	LN:i:1289
+S	read00000871	*	LN:i:18676
+S	read00000878	*	LN:i:2843
+S	read00000880	*	LN:i:7676
+S	read00000881	*	LN:i:34645
+S	read00000883	*	LN:i:5472
+S	read00000886	*	LN:i:717
+S	read00000887	*	LN:i:4854
+S	read00000889	*	LN:i:27828
+S	read00000891	*	LN:i:2507
+S	read00000893	*	LN:i:8452
+S	read00000902	*	LN:i:6588
+S	read00000903	*	LN:i:4253
+S	read00000906	*	LN:i:1998
+S	read00000907	*	LN:i:1244
+S	read00000909	*	LN:i:12693
+S	read00000914	*	LN:i:512
+S	read00000922	*	LN:i:12509
+S	read00000931	*	LN:i:3022
+S	read00000938	*	LN:i:73
+S	read00000939	*	LN:i:894
+S	read00000941	*	LN:i:2095
+S	read00000945	*	LN:i:26051
+S	read00000946	*	LN:i:2133
+S	read00000947	*	LN:i:25685
+S	read00000949	*	LN:i:8238
+S	read00000950	*	LN:i:2744
+S	read00000951	*	LN:i:1382
+S	read00000954	*	LN:i:2695
+S	read00000960	*	LN:i:13304
+S	read00000961	*	LN:i:611
+S	read00000962	*	LN:i:1101
+S	read00000963	*	LN:i:13856
+S	read00000964	*	LN:i:7799
+S	read00000966	*	LN:i:1808
+S	read00000967	*	LN:i:9179
+S	read00000970	*	LN:i:9218
+S	read00000979	*	LN:i:6079
+S	read00000982	*	LN:i:1209
+S	read00000985	*	LN:i:2062
+S	read00000988	*	LN:i:5182
+S	read00000990	*	LN:i:1466
+S	read00000991	*	LN:i:3978
+S	read00000992	*	LN:i:1094
+S	read00000994	*	LN:i:14095
+S	read00000995	*	LN:i:685
+S	read00001009	*	LN:i:788
+S	read00001018	*	LN:i:5633
+S	read00001019	*	LN:i:19210
+S	read00001020	*	LN:i:675
+S	read00001024	*	LN:i:6135
+S	read00001026	*	LN:i:4637
+S	read00001031	*	LN:i:3633
+S	read00001033	*	LN:i:1441
+S	read00001035	*	LN:i:4341
+S	read00001042	*	LN:i:13177
+S	read00001049	*	LN:i:4144
+S	read00001050	*	LN:i:20284
+S	read00001052	*	LN:i:2919
+S	read00001054	*	LN:i:3477
+S	read00001055	*	LN:i:629
+S	read00001058	*	LN:i:1138
+S	read00001067	*	LN:i:620
+S	read00001072	*	LN:i:1067
+S	read00001081	*	LN:i:900
+S	read00001089	*	LN:i:2471
+S	read00001091	*	LN:i:1426
+S	read00001092	*	LN:i:9332
+S	read00001094	*	LN:i:3090
+S	read00001100	*	LN:i:1012
+S	read00001107	*	LN:i:13412
+S	read00001111	*	LN:i:2004
+S	read00001117	*	LN:i:3534
+S	read00001120	*	LN:i:8824
+S	read00001121	*	LN:i:2486
+S	read00001123	*	LN:i:19699
+S	read00001127	*	LN:i:10042
+S	read00001131	*	LN:i:631
+S	read00001136	*	LN:i:10602
+S	read00001137	*	LN:i:6850
+S	read00001138	*	LN:i:770
+S	read00001141	*	LN:i:13662
+S	read00001145	*	LN:i:713
+S	read00001151	*	LN:i:118
+S	read00001154	*	LN:i:2974
+S	read00001157	*	LN:i:15899
+S	read00001159	*	LN:i:14723
+S	read00001160	*	LN:i:439
+S	read00001163	*	LN:i:3393
+S	read00001164	*	LN:i:728
+S	read00001165	*	LN:i:6132
+S	read00001174	*	LN:i:1866
+S	read00001179	*	LN:i:891
+S	read00001184	*	LN:i:14857
+S	read00001188	*	LN:i:14852
+S	read00001192	*	LN:i:173
+S	read00001194	*	LN:i:2869
+S	read00001196	*	LN:i:6837
+S	read00001200	*	LN:i:1252
+S	read00001205	*	LN:i:72
+S	read00001206	*	LN:i:2051
+S	read00001215	*	LN:i:73
+S	read00001218	*	LN:i:1675
+S	read00001219	*	LN:i:254
+S	read00001220	*	LN:i:375
+S	read00001221	*	LN:i:5678
+S	read00001224	*	LN:i:2893
+S	read00001228	*	LN:i:1367
+S	read00001231	*	LN:i:2883
+S	read00001234	*	LN:i:2764
+S	read00001241	*	LN:i:13728
+S	read00001248	*	LN:i:3886
+S	read00001254	*	LN:i:11399
+S	read00001255	*	LN:i:4698
+S	read00001261	*	LN:i:25595
+S	read00001262	*	LN:i:1135
+S	read00001266	*	LN:i:72
+S	read00001270	*	LN:i:8566
+S	read00001274	*	LN:i:1058
+S	read00001284	*	LN:i:16035
+S	read00001286	*	LN:i:2165
+S	read00001288	*	LN:i:20804
+S	read00001290	*	LN:i:2070
+S	read00001291	*	LN:i:7416
+S	read00001292	*	LN:i:25981
+S	read00001304	*	LN:i:27221
+S	read00001311	*	LN:i:16002
+S	read00001318	*	LN:i:1078
+S	read00001319	*	LN:i:900
+S	read00001321	*	LN:i:1799
+S	read00001323	*	LN:i:7677
+S	read00001324	*	LN:i:3182
+S	read00001339	*	LN:i:8755
+S	read00001342	*	LN:i:1289
+S	read00001353	*	LN:i:2901
+S	read00001355	*	LN:i:2583
+S	read00001360	*	LN:i:5549
+S	read00001361	*	LN:i:5851
+S	read00001363	*	LN:i:8110
+S	read00001369	*	LN:i:1275
+S	read00001371	*	LN:i:3577
+S	read00001373	*	LN:i:1497
+S	read00001374	*	LN:i:1249
+S	read00001377	*	LN:i:3568
+S	read00001379	*	LN:i:4992
+S	read00001390	*	LN:i:21552
+S	read00001393	*	LN:i:4822
+S	read00001397	*	LN:i:1243
+S	read00001405	*	LN:i:11898
+S	read00001408	*	LN:i:1897
+S	read00001413	*	LN:i:1812
+S	read00001427	*	LN:i:3010
+S	read00001431	*	LN:i:4165
+S	read00001436	*	LN:i:566
+S	read00001449	*	LN:i:2829
+S	read00001451	*	LN:i:2129
+S	read00001453	*	LN:i:3488
+S	read00001455	*	LN:i:371
+S	read00001456	*	LN:i:11549
+S	read00001462	*	LN:i:6797
+S	read00001463	*	LN:i:1353
+S	read00001466	*	LN:i:74
+S	read00001471	*	LN:i:610
+S	read00001473	*	LN:i:461
+S	read00001474	*	LN:i:31321
+S	read00001476	*	LN:i:12520
+S	read00001487	*	LN:i:2071
+S	read00001488	*	LN:i:1069
+S	read00001491	*	LN:i:2101
+S	read00001493	*	LN:i:1898
+S	read00001495	*	LN:i:7447
+S	read00001496	*	LN:i:6544
+S	read00001504	*	LN:i:1074
+S	read00001521	*	LN:i:992
+S	read00001527	*	LN:i:3095
+S	read00001530	*	LN:i:934
+S	read00001531	*	LN:i:2228
+S	read00001533	*	LN:i:1394
+S	read00001537	*	LN:i:2189
+S	read00001544	*	LN:i:71
+S	read00001545	*	LN:i:8289
+S	read00001551	*	LN:i:1281
+S	read00001564	*	LN:i:7683
+S	read00001565	*	LN:i:2807
+S	read00001567	*	LN:i:1820
+S	read00001571	*	LN:i:1340
+S	read00001572	*	LN:i:3012
+S	read00001574	*	LN:i:3796
+S	read00001581	*	LN:i:15662
+S	read00001584	*	LN:i:75
+S	read00001593	*	LN:i:2057
+S	read00001595	*	LN:i:13918
+S	read00001598	*	LN:i:8755
+S	read00001602	*	LN:i:4624
+S	read00001603	*	LN:i:1477
+S	read00001612	*	LN:i:105
+S	read00001623	*	LN:i:5957
+S	read00001626	*	LN:i:2921
+S	read00001627	*	LN:i:9064
+S	read00001633	*	LN:i:8280
+S	read00001639	*	LN:i:690
+S	read00001642	*	LN:i:12778
+S	read00001645	*	LN:i:1167
+S	read00001660	*	LN:i:8574
+S	read00001697	*	LN:i:6270
+S	read00001699	*	LN:i:4751
+S	read00001713	*	LN:i:6008
+S	read00001724	*	LN:i:21447
+S	read00001729	*	LN:i:2405
+S	read00001776	*	LN:i:5406
+S	read00001787	*	LN:i:824
+S	read00001790	*	LN:i:3132
+S	read00001818	*	LN:i:742
+S	read00001829	*	LN:i:8392
+S	read00001849	*	LN:i:953
+S	read00001910	*	LN:i:2698
+S	read00001916	*	LN:i:3464
+S	read00001920	*	LN:i:631
+S	read00001928	*	LN:i:10536
+S	read00001931	*	LN:i:6745
+S	read00001946	*	LN:i:271
+S	read00001955	*	LN:i:4236
+S	read00001968	*	LN:i:1136
+S	read00001970	*	LN:i:61
+S	read00001975	*	LN:i:390
+S	read00001979	*	LN:i:60
+S	read00001986	*	LN:i:156
+S	read00002009	*	LN:i:89
+S	read00002043	*	LN:i:73
+S	read00002062	*	LN:i:3226
+S	read00002100	*	LN:i:61
+S	read00002106	*	LN:i:5386
+S	read00002109	*	LN:i:593
+S	read00002110	*	LN:i:2047
+S	read00002148	*	LN:i:1343
+S	read00002158	*	LN:i:3004
+S	read00002209	*	LN:i:2684
+S	read00002223	*	LN:i:275
+S	read00002236	*	LN:i:4789
+S	read00002276	*	LN:i:54
+S	read00002292	*	LN:i:1188
+S	read00002304	*	LN:i:13248
+S	read00002339	*	LN:i:3615
+S	read00002340	*	LN:i:2016
+S	read00002358	*	LN:i:889
+S	read00002366	*	LN:i:284
+S	read00002367	*	LN:i:386
+S	read00002416	*	LN:i:2126
+S	read00002437	*	LN:i:173
+S	read00002493	*	LN:i:54
+S	read00002495	*	LN:i:222
+S	read00002546	*	LN:i:139
+S	read00002575	*	LN:i:6254
+S	read00002587	*	LN:i:13445
+S	read00002608	*	LN:i:5914
+S	read00002640	*	LN:i:16016
+S	read00002651	*	LN:i:4565
+S	read00002657	*	LN:i:66
+S	read00002668	*	LN:i:2632
+S	read00002670	*	LN:i:3511
+S	read00002683	*	LN:i:87
+S	read00002700	*	LN:i:895
+S	read00002737	*	LN:i:1145
+S	read00002755	*	LN:i:4606
+S	read00002826	*	LN:i:2477
+S	read00002830	*	LN:i:113
+S	read00002852	*	LN:i:1407
+S	read00002856	*	LN:i:12870
+S	read00002893	*	LN:i:76
+S	read00002902	*	LN:i:3534
+S	read00002915	*	LN:i:6899
+S	read00002926	*	LN:i:112
+S	read00002942	*	LN:i:2618
+S	read00002961	*	LN:i:1195
+S	read00002990	*	LN:i:34379
+S	read00002994	*	LN:i:2895
+S	read00002999	*	LN:i:54
+S	read00003007	*	LN:i:74
+S	read00003025	*	LN:i:76
+S	read00003042	*	LN:i:1065
+S	read00003054	*	LN:i:77
+S	read00003078	*	LN:i:1104
+S	read00003082	*	LN:i:3521
+S	read00003084	*	LN:i:3700
+S	read00003097	*	LN:i:67
+S	read00003109	*	LN:i:72
+S	read00003139	*	LN:i:61
+S	read00003188	*	LN:i:67
+S	read00003192	*	LN:i:58
+S	read00003216	*	LN:i:13141
+S	read00003240	*	LN:i:144
+S	read00003245	*	LN:i:10155
+S	read00003285	*	LN:i:31974
+S	read00003317	*	LN:i:3536
+S	read00003319	*	LN:i:765
+S	read00003369	*	LN:i:1329
+S	read00003373	*	LN:i:118
+S	read00003378	*	LN:i:31903
+S	read00003383	*	LN:i:6230
+S	read00003385	*	LN:i:3918
+S	read00003406	*	LN:i:1176
+S	read00003417	*	LN:i:6437
+S	read00003479	*	LN:i:1397
+S	read00003487	*	LN:i:74
+S	read00003519	*	LN:i:6624
+S	read00003520	*	LN:i:10501
+S	read00003524	*	LN:i:660
+S	read00003525	*	LN:i:311
+S	read00003566	*	LN:i:3636
+S	read00003593	*	LN:i:24576
+C	read00000009	+	read00001487	-	80	483M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000015	-	read00000822	-	1419M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000015	+	read00001255	-	1238M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000015	+	read00002990	+	4165	1446M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000021	+	read00000749	-	2	782M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000041	+	read00001284	+	15090	426M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000054	+	read00001565	+	12	2804M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000063	-	read00003520	-	9987M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000067	+	read00001790	+	2008	1028M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000068	+	read00001713	-	38	5462M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000070	+	read00001928	-	5729	63M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000070	+	read00001633	+	5673	63M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000070	+	read00000279	+	8412	63M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000070	+	read00001042	-	8390	63M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000078	+	read00001623	+	0	5759M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000080	-	read00001790	-	1030M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000080	+	read00000311	-	245M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000100	+	read00000101	-	1580	1450M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000123	+	read00001019	-	0	2828M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000129	-	read00001284	+	12969M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000129	+	read00000655	+	2442M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000135	+	read00000160	+	0	1696M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000137	+	read00000078	+	132	1940M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000144	+	read00001955	-	0	3601M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000168	+	read00000616	-	0	1311M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000178	-	read00001026	-	3578M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000178	+	read00000841	+	5139M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000188	+	read00002915	+	6742	80M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000200	-	read00000135	-	1630M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000200	+	read00001627	-	9010M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000208	+	read00001724	+	9032M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000208	-	read00000881	+	13926M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000208	+	read00001311	-	14567M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000218	+	read00001986	+	98M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000218	-	read00002223	-	161M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000218	+	read00001986	+	98M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000218	-	read00002223	-	161M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000225	+	read00000178	-	15255	2096M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000234	-	read00000509	-	146M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000234	+	read00000950	+	1651M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000257	+	read00000129	+	3411	867M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000259	+	read00000101	-	2308	329M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000278	-	read00000403	+	6532M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000279	+	read00002304	+	0	9765M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000311	-	read00001031	+	446M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000311	+	read00000080	-	245M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000326	+	read00001024	+	9	56M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000326	+	read00001205	+	9	56M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000326	+	read00000902	+	10	56M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000337	+	read00000200	-	5335	1467M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000352	+	read00000200	-	5565	2714M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000367	-	read00000532	-	73M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000367	+	read00001790	-	977	1040M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000373	-	read00000521	+	6296M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000373	+	read00000683	-	9752M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000378	+	read00000505	+	7	77M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000378	+	read00000931	+	10	77M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000378	+	read00003406	+	7	77M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000378	-	read00001466	-	71M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000378	+	read00000680	+	1	77M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000378	+	read00001321	+	8	77M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000378	+	read00001413	+	6	77M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000378	+	read00001427	+	5	77M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000378	+	read00000991	+	1	77M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000378	+	read00003417	+	2	77M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000385	-	read00000666	+	8008M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000385	+	read00001495	+	7457M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000388	+	read00001639	-	0	655M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000396	+	read00001453	+	2	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000396	+	read00000526	+	3	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000396	+	read00000542	+	71M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000396	+	read00000575	+	3	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000396	+	read00003245	+	1	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000396	+	read00000505	+	3	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000396	+	read00000699	+	1	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000396	+	read00000931	+	5	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000396	+	read00000668	+	4	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000396	+	read00003406	+	1	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000396	+	read00001111	+	2	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000396	+	read00000823	+	1	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000396	+	read00001157	+	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000396	+	read00001466	+	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000396	+	read00000680	+	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000396	+	read00001321	+	3	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000396	+	read00000639	+	4	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000396	+	read00000893	+	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000396	+	read00001413	+	0	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000396	+	read00002893	+	0	76M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000396	+	read00000991	+	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000396	+	read00003417	+	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000396	+	read00001436	+	4	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000396	+	read00000962	+	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000396	+	read00003385	+	2	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000396	+	read00002062	+	0	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000403	-	read00000278	+	6494M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000407	+	read00001473	+	118	355M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000424	+	read00000680	+	859	2277M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000425	+	read00001033	-	0	1263M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000427	+	read00002158	-	27	2967M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000432	+	read00000385	-	6035	1333M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000439	+	read00001453	+	2	73M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000439	+	read00000526	+	3	73M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000439	+	read00000575	+	3	73M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000439	+	read00003487	+	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000439	+	read00003245	+	1	73M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000439	+	read00000505	+	3	73M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000439	+	read00000931	+	5	73M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000439	+	read00000668	+	4	73M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000439	+	read00001111	+	2	73M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000439	+	read00000507	+	1	73M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000439	+	read00000823	+	1	73M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000439	+	read00001462	+	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000439	+	read00001321	+	3	73M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000439	+	read00000639	+	4	73M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000439	+	read00000893	+	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000439	+	read00002893	+	0	73M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000439	+	read00001436	+	4	73M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000439	+	read00000962	+	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000439	+	read00002062	+	0	73M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000456	+	read00002304	-	11699	655M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000460	+	read00003007	+	2	57M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000460	+	read00000902	+	1	57M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000488	-	read00000812	+	6968M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000488	+	read00001304	+	8223M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000491	+	read00001724	+	2148M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000491	-	read00001261	-	4272M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000491	+	read00001405	-	5387M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000492	+	read00001660	+	2092	475M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000498	-	read00000761	-	384M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000498	+	read00001121	+	691M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000498	+	read00001288	+	17019	881M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000499	+	read00001200	+	0	736M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000500	+	read00001724	+	11972M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000500	-	read00000881	+	21289M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000500	+	read00000871	+	15876M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000501	-	read00000518	-	3838M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000501	+	read00001829	-	4437M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000504	-	read00000988	-	3743M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000504	+	read00000730	+	4049M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000504	+	read00000963	-	2656	4679M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000505	-	read00000699	-	3077M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000505	+	read00000941	-	2084M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000505	-	read00000792	-	2723M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000505	+	read00000945	+	3806M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000507	-	read00003519	+	3126M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000507	+	read00001117	+	3072M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000509	-	read00000914	-	410M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000509	+	read00000234	+	143M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000515	-	read00000681	+	8233M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000515	+	read00000949	+	7939M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000515	-	read00002893	-	71M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000516	+	read00001192	-	0	173M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000518	-	read00000522	+	4224M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000518	+	read00000501	+	3846M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000521	-	read00000373	+	6312M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000522	-	read00001107	-	4376M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000522	+	read00002587	+	1756M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000525	-	read00000536	-	2018M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000525	+	read00000541	-	1991M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000526	+	read00000668	-	5055	1113M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000526	+	read00002990	+	2773	1113M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000527	-	read00001286	-	1882M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000527	+	read00002990	-	1705M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000530	-	read00001163	+	3378M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000530	+	read00001355	+	1411M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000531	-	read00002640	+	8754M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000531	+	read00001123	-	9495M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000532	+	read00001453	+	3	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000532	+	read00000526	+	3	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000532	+	read00000575	+	3	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000532	+	read00001231	+	1	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000532	+	read00000505	+	3	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000532	+	read00000931	+	6	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000532	+	read00000668	+	4	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000532	+	read00001111	+	3	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000532	+	read00000507	+	2	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000532	+	read00000823	+	2	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000532	+	read00001462	+	0	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000532	+	read00001321	+	4	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000532	+	read00000639	+	5	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000532	+	read00000893	+	0	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000532	-	read00000396	-	74M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000532	+	read00003054	+	74M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000532	+	read00001436	+	5	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000532	+	read00000962	+	0	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000532	+	read00000367	+	73M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000532	+	read00001776	+	1	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000532	+	read00002062	+	1	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000536	-	read00000881	-	524M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000536	+	read00001724	-	2202M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000538	+	read00000941	+	329	1526M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000541	-	read00000542	-	1899M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000541	+	read00000525	-	2034M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000542	-	read00002339	-	3444M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000542	+	read00000541	+	1894M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000542	-	read00001466	-	71M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000542	-	read00001215	-	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000546	-	read00000966	-	1412M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000546	+	read00001159	-	1244M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000546	-	read00001092	-	1713M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000546	+	read00002575	-	1686M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000552	-	read00001724	+	7187M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000552	-	read00001184	+	8806M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000552	+	read00000756	-	9142M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000552	-	read00002893	-	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000560	+	read00000941	-	60	245M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000560	+	read00001724	-	16779	245M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000567	-	read00001379	+	3782M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000567	+	read00001270	-	3311M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000575	-	read00001270	+	3763M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000575	+	read00000208	+	3434M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000578	+	read00000427	+	2373	541M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000585	-	read00001572	-	2987M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000585	+	read00001159	-	3134M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000585	-	read00001474	-	4798M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000585	+	read00002575	-	3569M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000586	-	read00000673	+	536M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000586	+	read00001255	-	613M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000586	+	read00002990	+	4208	779M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000587	+	read00000801	+	552	2067M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000598	+	read00003378	+	15763	1154M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000620	+	read00003378	-	23049	1463M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000624	+	read00000279	+	3176	2827M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000625	+	read00000990	+	80	1254M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000632	-	read00001462	+	4279M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000632	+	read00000871	+	3864M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000639	+	read00000373	+	688	3159M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000642	+	read00001565	+	1007	683M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000648	-	read00001724	+	9487M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000648	-	read00001241	+	12267M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000648	+	read00001123	+	12642M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000650	+	read00000723	-	5	759M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000654	+	read00000985	+	898	1164M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000655	+	read00001019	-	16681	2516M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000657	+	read00000717	+	2043	553M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000666	-	read00000385	+	8036M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000666	+	read00001081	+	348M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000668	-	read00000673	-	5462M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000668	+	read00000967	-	6082M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000668	+	read00000871	-	1431	6167M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000669	-	read00000947	-	3376M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000669	+	read00000501	-	2613M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000671	+	read00000534	+	0	1496M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000673	-	read00002990	+	4770M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000673	+	read00000668	+	5477M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000673	+	read00000871	-	567	6363M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000673	-	read00002893	-	78M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000675	+	read00000938	+	2	62M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000675	+	read00002223	-	116	62M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000675	+	read00002437	+	103	62M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000680	-	read00000902	-	4388M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000680	-	read00001215	-	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000681	-	read00000515	+	8214M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000681	+	read00000889	+	8047M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000683	+	read00000373	-	9752M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000699	-	read00001221	+	3134M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000699	+	read00000505	+	3064M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000699	-	read00000792	-	2926M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000699	+	read00001188	-	3202M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000709	+	read00000373	+	7456	3723M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000713	+	read00001565	-	53	823M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000715	+	read00001192	+	0	96M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000717	+	read00001127	-	10142M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000721	-	read00001323	+	5669M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000729	+	read00000966	+	18	65M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000729	+	read00000538	+	8	65M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000729	+	read00000967	+	11	65M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000729	+	read00000781	+	13	65M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000729	+	read00000526	+	14	65M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000729	+	read00001024	+	7	65M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000729	+	read00000992	+	8	65M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000729	+	read00003007	+	8	65M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000729	+	read00000902	+	8	65M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000729	+	read00000893	+	11	65M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000729	+	read00001262	+	15	65M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000729	+	read00002668	+	9	65M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000729	+	read00000625	+	20	65M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000730	-	read00000822	+	4854M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000730	+	read00001221	-	4307M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000730	+	read00000963	-	3285	4947M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000734	+	read00003285	-	11964	4733M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000736	+	read00001476	-	4316	2388M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000740	+	read00000680	+	1799	926M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000741	-	read00000504	+	2798M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000741	+	read00000673	-	3062M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000741	+	read00000963	+	8553	3116M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000748	-	read00000988	+	3144M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000748	+	read00001431	+	3416M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000748	+	read00000963	+	9645	3436M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000750	+	read00000717	-	1841	727M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000756	+	read00001724	+	7102M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000756	-	read00000947	+	12262M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000756	+	read00000871	+	11020M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000761	-	read00000906	-	568M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000761	+	read00001567	-	997M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000774	-	read00000741	-	2479M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000774	+	read00000931	-	2542M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000776	+	read00000101	+	0	6950M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000778	+	read00000144	-	1029	2560M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000781	-	read00000967	-	1732M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000781	+	read00000526	+	1055M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000791	-	read00000681	-	5212M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000791	+	read00001288	+	4853M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000792	-	read00000967	+	3722M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000792	+	read00000699	+	2914M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000792	-	read00001206	+	1768M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000792	+	read00002575	+	3756M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000795	-	read00003566	-	1140M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000795	+	read00000994	-	5495M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000802	+	read00001292	+	24326	1662M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000805	-	read00000567	-	2645M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000805	+	read00002755	-	3052M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000809	+	read00003042	+	229	839M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000812	-	read00000488	+	7006M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000812	+	read00001724	-	7131M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000812	+	read00000871	-	192M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000816	+	read00002915	-	3173	635M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000817	+	read00000772	+	6	589M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000822	-	read00000967	-	8141M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000822	+	read00002990	+	5579M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000822	-	read00000871	-	9632M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000822	-	read00003007	-	61M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000823	-	read00001545	-	2148M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000823	+	read00000949	+	2037M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000834	-	read00001584	-	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000834	+	read00000178	-	21920	598M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000836	+	read00000304	+	0	733M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000838	-	read00002651	-	4449M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000838	+	read00001379	-	3960M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000841	+	read00001292	-	20851	5146M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000842	-	read00002670	+	3063M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000842	+	read00000776	-	6324M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000846	+	read00000021	-	25	666M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000865	+	read00000666	-	87	1289M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000865	-	read00001081	+	252M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000871	+	read00001724	+	14773M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000871	-	read00000889	-	17202M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000878	-	read00002339	+	1610M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000878	+	read00001018	-	2612M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000880	+	read00002856	+	0	7676M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000881	-	read00001724	+	8103M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000881	-	read00000889	+	22534M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000881	+	read00002990	-	22549M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000883	-	read00001829	+	3882M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000883	+	read00000949	-	5324M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000886	+	read00001645	+	317	717M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000887	-	read00001165	+	4489M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000887	+	read00001188	+	4715M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000889	+	read00001724	+	13319M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000889	-	read00000881	+	22641M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000889	+	read00000871	+	17230M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000891	+	read00001323	+	5078	2507M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000893	+	read00000063	-	476	8452M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000893	-	read00002893	-	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000902	-	read00003383	-	5313M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000902	+	read00000680	+	4352M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000903	+	read00001623	-	0	4253M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000906	-	read00000941	-	523M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000906	+	read00000730	-	1148M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000907	+	read00001551	-	43	1244M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000909	-	read00001107	+	8727M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000909	+	read00002640	-	12609M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000914	+	read00001248	+	0	512M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000922	-	read00001724	+	4495M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000922	-	read00000208	+	10301M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000922	+	read00003593	-	12448M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000931	-	read00000748	+	2985M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000931	+	read00000774	-	2527M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000938	+	read00001986	-	79	73M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000938	-	read00003025	+	52M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000938	+	read00002366	-	80	73M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000938	-	read00003025	+	52M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000938	+	read00002043	-	65M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000938	+	read00002437	+	55M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000939	+	read00001724	-	2609	894M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000939	+	read00001363	+	4688	894M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000939	+	read00002990	-	24740	894M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000941	-	read00001572	-	507M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000941	+	read00000505	-	2085M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000945	-	read00001724	+	6494M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000945	-	read00000947	-	25188M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000945	+	read00001474	-	24540M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000946	+	read00000964	-	0	2133M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000947	-	read00001724	+	7003M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000947	-	read00000889	+	21524M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000947	+	read00000945	+	25182M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000949	-	read00000515	-	7982M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000949	+	read00001107	+	7016M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000950	+	read00001248	+	1116	2744M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000951	+	read00001491	-	608	1382M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000960	-	read00001642	-	12335M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000960	+	read00001261	+	12142M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000961	-	read00000781	+	574M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000961	+	read00000988	+	517M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000961	+	read00001724	-	9327	611M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000961	+	read00002990	-	31686	611M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000962	-	read00002893	-	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000962	+	read00000178	-	19520	1101M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000963	+	read00001724	+	13151M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000963	+	read00001184	+	894	13856M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000966	+	read00001724	+	293	1808M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000967	-	read00001221	-	5265M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000967	+	read00000822	+	8133M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000967	+	read00000963	+	4853	9179M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00000970	-	read00001829	-	7585M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000970	+	read00001642	-	8720M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000979	-	read00000995	+	562M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000979	+	read00003385	-	3838M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000982	+	read00001660	-	107	1209M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000988	-	read00000668	-	4917M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000988	+	read00000504	+	3737M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000988	+	read00000963	-	1224	5182M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000990	+	read00001603	-	0	1466M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000991	-	read00001215	-	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00000991	+	read00001323	+	3716	3978M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000992	-	read00003216	-	1092M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00000992	+	read00000673	+	818M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000992	+	read00002990	-	29367	1094M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000994	+	read00001019	-	0	14095M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00000995	+	read00002856	+	12178	685M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001009	+	read00001019	+	2234	788M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001018	-	read00001699	+	4701M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001018	+	read00001360	+	5060M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001018	-	read00000871	-	1334M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001020	+	read00001248	-	1112	675M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001024	-	read00001697	+	5438M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001024	+	read00000812	-	5758M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001024	-	read00003007	-	69M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001026	-	read00000802	+	1557M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001026	+	read00000178	+	3573M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001031	-	read00003385	+	1636M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001031	+	read00000880	-	3004M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001035	-	read00000501	-	2858M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001035	+	read00000947	-	4044M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001042	-	read00001928	-	10441M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001042	+	read00000279	-	9755M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001049	-	read00001054	+	1986M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001049	+	read00001291	+	632M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001050	+	read00001724	+	11099M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001050	-	read00001288	-	19307M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001050	+	read00000871	+	14994M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001052	-	read00001527	+	1840M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001052	+	read00001928	-	1463M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001054	-	read00001049	+	1975M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001054	+	read00000135	-	1588M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001055	+	read00002961	-	508	629M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001058	+	read00000050	+	0	1138M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001067	+	read00000178	-	23140	620M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001072	+	read00002942	-	1479	1067M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001081	-	read00000666	-	335M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001081	+	read00001026	-	1784	900M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001089	-	read00000531	+	2070M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001089	+	read00000567	-	2241M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001091	+	read00000385	+	6449	1426M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001092	+	read00001724	+	2396M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001092	-	read00001261	-	7899M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001092	+	read00000208	+	8195M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001094	-	read00001373	-	1467M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001094	+	read00001137	+	2341M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001100	-	read00000015	-	673M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001100	+	read00000812	-	832M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001100	+	read00002990	+	4947	1012M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001107	-	read00003593	+	11324M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001107	+	read00000960	-	9787M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001111	-	read00000541	+	1810M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001111	+	read00001024	-	1049M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001117	-	read00000889	+	3322M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001117	+	read00001829	+	2582M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001120	-	read00001829	+	6831M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001120	+	read00000947	-	8520M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001121	-	read00001567	+	1030M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001121	+	read00000988	-	2057M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001121	+	read00001288	+	17206	2486M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001121	-	read00001584	-	69M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001123	-	read00001724	+	9518M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001123	-	read00001050	+	18715M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001123	+	read00000881	+	18358M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001127	+	read00000717	-	10013M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001131	+	read00001595	-	6508	631M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001136	-	read00000893	-	8225M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001136	+	read00003520	-	9001M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001137	-	read00001094	-	2334M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001137	+	read00001626	-	2765M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001138	-	read00002893	-	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001138	+	read00000063	+	807	770M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001141	+	read00001724	+	7998M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001141	-	read00000947	+	12673M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001141	+	read00001311	-	13556M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001145	+	read00000304	-	0	713M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001151	+	read00002990	+	32394	118M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001151	+	read00000881	-	20569	118M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001151	+	read00001288	+	4783	118M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001151	+	read00000575	+	945	118M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001154	-	read00002587	+	88M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001154	+	read00000501	+	2809M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001157	-	read00000945	-	15258M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001157	+	read00001304	-	15740M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001157	-	read00000396	-	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001159	-	read00002990	+	7210M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001159	+	read00001572	-	1269M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001159	+	read00000871	-	12813M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001160	+	read00001473	-	28	439M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001163	-	read00003487	-	70M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001163	-	read00000530	+	3387M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001163	+	read00002416	+	2149M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001164	+	read00001565	-	2087	728M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001165	-	read00001545	-	5912M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001165	+	read00002990	-	5800M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001165	-	read00001584	-	70M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001174	+	read00000954	+	640	1866M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001179	+	read00001595	-	3723	891M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001184	+	read00001724	+	13341M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001184	+	read00000871	+	2289	14857M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001188	+	read00001724	+	6812M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001188	-	read00000945	+	14542M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001188	+	read00000208	+	12608M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001194	-	read00000887	+	2032M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001194	+	read00002755	+	2648M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001196	-	read00001724	+	5795M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001196	-	read00000963	+	6500M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001196	+	read00001581	+	6593M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001205	+	read00000966	+	11	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001205	+	read00000967	+	4	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001205	+	read00000526	+	7	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001205	+	read00001024	+	0	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001205	+	read00000992	+	0	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001205	-	read00003007	-	69M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001205	+	read00000902	+	0	72M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001205	+	read00000893	+	4	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001205	+	read00001262	+	7	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001205	+	read00002668	+	1	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001205	+	read00000625	+	12	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001206	-	read00001567	+	1431M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001206	+	read00001121	+	1633M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001206	+	read00001288	+	16798	2051M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001215	+	read00000505	+	5	73M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001215	+	read00003406	+	6	73M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001215	-	read00000396	-	70M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001215	+	read00000378	+	71M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001215	+	read00000991	+	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001218	-	read00001545	-	1653M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001218	+	read00000805	-	1615M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001219	+	read00000337	+	64	254M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001220	+	read00001724	+	17759	375M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001220	-	read00001319	-	353M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001220	+	read00000939	-	193M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001220	+	read00002990	+	8562	375M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001221	-	read00000699	+	3125M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001221	+	read00000967	+	5259M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001221	+	read00001288	+	14418	5678M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001224	-	read00001304	+	2179M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001224	+	read00001255	+	2860M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001228	+	read00001431	-	2233	1367M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001231	-	read00001270	+	2336M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001231	+	read00000756	+	2646M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001234	-	read00001427	+	2107M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001234	+	read00001324	-	2459M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001241	+	read00001724	+	10952M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001241	-	read00001311	+	13307M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001241	+	read00001184	+	12574M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001254	-	read00002587	+	3872M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001254	+	read00001261	+	10795M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001255	-	read00001360	+	4514M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001255	+	read00001699	+	4278M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001261	+	read00001724	+	963M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001261	-	read00002990	-	20627M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001261	+	read00003593	+	21143M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001262	+	read00001137	+	150	1135M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001266	+	read00001453	+	3	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001266	+	read00000526	+	3	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001266	+	read00000575	+	3	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001266	+	read00003487	+	0	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001266	+	read00003245	+	2	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001266	+	read00000505	+	3	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001266	+	read00000931	+	6	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001266	+	read00000668	+	4	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001266	+	read00001111	+	3	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001266	+	read00000507	+	2	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001266	+	read00000823	+	2	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001266	+	read00001321	+	4	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001266	+	read00000639	+	5	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001266	+	read00000893	+	0	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001266	-	read00000439	-	70M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001266	+	read00003054	+	71M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001266	+	read00001436	+	5	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001266	+	read00000962	+	0	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001266	+	read00002062	+	1	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001270	-	read00001288	+	7610M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001270	+	read00002990	-	7722M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001274	+	read00003042	-	13	1058M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001284	-	read00000129	+	12983M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001284	+	read00000994	-	11076M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001286	-	read00001141	+	2151M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001286	+	read00001165	+	1999M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001288	+	read00001724	+	10044M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001288	-	read00000881	+	18786M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001288	+	read00001050	+	19237M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001290	+	read00000985	-	0	2070M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001291	-	read00002893	-	69M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001291	+	read00000160	+	5108	7416M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001304	-	read00002587	+	10314M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001304	+	read00000881	-	22125M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001311	-	read00001724	+	10501M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001311	-	read00000871	+	14348M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001311	+	read00001288	-	15659M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001318	+	read00000352	+	379	1078M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001319	+	read00001724	+	17206	900M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001319	-	read00001699	+	679M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001319	+	read00002339	+	657M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001319	+	read00002990	+	8016	900M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001321	+	read00001660	+	4824	1799M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001323	-	read00000721	+	5721M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001324	-	read00001136	-	2883M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001324	+	read00001234	-	2471M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001339	+	read00001724	+	8675M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001339	+	read00001288	+	10681	8755M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001342	+	read00002416	-	54	1289M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001353	-	read00000518	-	2628M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001353	+	read00000945	-	2357M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001355	-	read00000530	-	1413M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001355	+	read00001451	-	2118M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001360	-	read00001018	-	5066M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001360	+	read00001024	+	5350M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001361	-	read00000949	-	5285M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001361	+	read00001829	+	4286M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001363	-	read00001304	+	7332M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001363	+	read00000812	+	6819M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001369	+	read00002158	+	1735	1275M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001371	+	read00000278	-	0	3577M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001373	+	read00000964	+	0	1497M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001374	-	read00000488	+	763M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001374	+	read00001100	-	417M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001374	+	read00002990	-	27583	1249M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001377	+	read00001955	+	0	3568M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001379	-	read00001390	+	4870M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001379	+	read00001107	+	4781M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001390	+	read00001724	+	8019M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001390	-	read00000947	+	20542M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001390	+	read00000500	+	21164M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001393	+	read00000717	+	5967	4822M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001397	+	read00000200	+	3250	1243M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001405	-	read00001724	+	8663M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001405	-	read00000648	-	11888M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001405	+	read00000881	+	11417M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001408	+	read00000403	-	5165	1897M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001413	+	read00003520	-	1002	1812M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001427	-	read00003520	+	3008M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001431	-	read00000748	-	3422M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001431	+	read00002990	+	3607M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001436	+	read00000209	-	128	566M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001449	+	read00001292	-	20090	2829M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001451	+	read00001595	-	7736	2129M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001453	-	read00000748	-	2958M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001453	+	read00002990	+	3420M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001453	+	read00000963	+	10053	3488M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001455	+	read00000178	+	1103	371M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001456	+	read00000683	+	1397	11549M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001462	-	read00001092	+	6271M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001462	+	read00000531	-	6755M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001462	-	read00000396	-	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001463	-	read00001584	-	71M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001463	+	read00000985	-	710	1353M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001466	+	read00000542	+	73M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001466	+	read00000505	+	6	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001466	+	read00000699	+	5	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001466	+	read00000931	+	9	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001466	+	read00003406	+	6	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001466	+	read00000680	+	0	74M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001466	+	read00001413	+	5	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001466	-	read00000396	-	71M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001466	+	read00001215	+	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001466	+	read00000991	+	0	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001466	+	read00003385	+	7	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001471	+	read00001639	-	80	610M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001474	+	read00001724	+	4981M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001474	-	read00002990	-	22341M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001474	+	read00000945	-	24431M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001476	-	read00003378	-	9582M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001487	+	read00002826	+	381	2071M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001488	+	read00000050	-	85	1069M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001493	+	read00000717	+	768	1898M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001495	-	read00000385	-	7421M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001496	-	read00002668	-	2219M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001496	+	read00000129	+	3541M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001504	+	read00000101	+	6434	1074M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001521	+	read00000964	-	3192	992M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001527	+	read00000279	-	6639	3095M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001530	-	read00000507	+	844M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001530	+	read00001270	-	702M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001531	+	read00001127	-	7808	2228M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001533	+	read00001033	+	0	1394M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001537	-	read00000578	+	168M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001537	+	read00001369	+	871M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001544	+	read00000542	+	0	71M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001544	+	read00000575	+	7	71M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001544	+	read00000505	+	7	71M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001544	+	read00000699	+	6	71M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001544	+	read00000931	+	10	71M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001544	+	read00003406	+	7	71M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001544	+	read00001466	+	3	71M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001544	+	read00000680	+	1	71M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001544	+	read00001321	+	8	71M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001544	+	read00001413	+	6	71M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001544	+	read00001215	+	2	71M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001544	+	read00000991	+	1	71M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001544	+	read00003417	+	2	71M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001544	+	read00003385	+	8	71M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001545	-	read00001050	+	7901M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001545	+	read00002640	+	8110M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001564	-	read00001476	+	2558M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001564	+	read00003417	-	5998M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001567	-	read00000504	-	1539M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001567	+	read00000699	+	1137M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001567	-	read00001206	+	1429M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001567	+	read00000552	+	1439M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001571	+	read00001491	-	752	1340M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001572	+	read00001724	+	163	3012M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001574	-	read00001724	+	1552M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001574	-	read00000552	-	3592M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001574	+	read00001261	-	3205M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001581	-	read00001724	+	5552M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001581	-	read00001050	+	14753M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001581	+	read00001474	-	15089M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001584	+	read00001121	+	69M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001584	+	read00001453	+	2	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001584	+	read00000526	+	3	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001584	+	read00000505	+	3	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001584	+	read00000931	+	5	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001584	+	read00000668	+	4	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001584	+	read00001111	+	2	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001584	+	read00000507	+	1	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001584	+	read00000823	+	1	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001584	+	read00001165	+	70M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001584	+	read00001179	+	2	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001584	+	read00001321	+	3	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001584	+	read00000639	+	4	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001584	+	read00000893	+	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001584	+	read00001427	+	0	75M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001584	+	read00001436	+	4	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001584	+	read00001463	+	70M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001584	+	read00000834	+	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001584	+	read00000962	+	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001584	+	read00002062	+	0	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001593	+	read00002994	+	243	2057M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001595	+	read00003383	+	6019M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001598	-	read00003566	-	1358M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001598	+	read00000994	-	6697M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001602	+	read00000178	-	6757	4624M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001612	+	read00001713	+	5092	105M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001612	+	read00002915	-	5977	105M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001626	-	read00000946	-	2115M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001626	+	read00001137	-	2795M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001627	-	read00001291	+	4040M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001627	+	read00000200	-	9011M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001633	+	read00002304	+	2753	8280M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001642	-	read00002587	+	4882M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001642	+	read00000960	+	12328M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001645	+	read00001551	+	115	1167M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001660	-	read00000373	-	6958M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001660	+	read00001456	-	7435M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001697	-	read00003216	-	6258M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001697	+	read00001159	+	3322M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001697	+	read00000871	-	1403M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00001699	-	read00003216	-	4747M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001699	+	read00001159	+	3300M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001713	+	read00002915	-	821	6008M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001724	+	read00002990	+	12011M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001724	-	read00000871	-	14535M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00001729	+	read00002826	-	79	2405M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001776	-	read00003385	-	3318M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001776	+	read00000995	+	389M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001787	+	read00000385	+	4742	824M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001790	+	read00001776	-	162	3132M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001818	+	read00000723	+	29	742M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001829	-	read00003593	+	8036M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001829	+	read00000960	-	8053M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001849	+	read00000954	+	0	953M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001910	+	read00000954	+	2	2698M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001916	+	read00000880	+	34	3464M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001920	+	read00000209	-	0	631M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001928	+	read00002304	-	0	10536M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001931	+	read00001476	-	0	6745M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001946	+	read00001200	-	0	271M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001968	-	read00001360	+	993M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001968	+	read00003406	+	830M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001968	+	read00002990	-	28830	1136M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001970	+	read00002009	+	11	61M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001975	+	read00001551	+	355	390M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001979	+	read00001986	+	30	60M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001979	+	read00000218	+	156	60M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00001979	+	read00000218	+	156	60M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001979	-	read00002683	+	53M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001986	+	read00002366	+	143M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001986	-	read00003240	-	135M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001986	-	read00002223	-	125M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00001986	-	read00002223	-	125M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002009	-	read00002926	+	76M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002043	+	read00001986	+	68M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00002043	+	read00000938	-	69M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002043	+	read00000218	+	122	73M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002062	+	read00002915	+	3692	3226M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002100	+	read00002926	-	13	61M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002100	+	read00002009	+	27	61M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002106	-	read00000721	+	4580M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002106	+	read00000991	+	2803M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002109	+	read00000772	-	3	593M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002110	+	read00000616	-	34	2047M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002148	-	read00001699	+	1068M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002148	+	read00002339	+	712M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002148	+	read00002990	+	7623	1343M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002209	+	read00000385	-	5005	2684M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002223	+	read00000218	+	160M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002223	-	read00003240	-	86M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002223	+	read00000218	+	160M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002236	+	read00001292	-	2995	4789M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002276	+	read00002009	-	32	54M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002292	+	read00002961	-	20	1188M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002339	-	read00001024	-	2630M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002339	+	read00000542	+	3436M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002340	+	read00003378	-	12844	2016M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002358	+	read00000279	-	2	889M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002366	-	read00001986	-	143M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002366	+	read00002437	-	69M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002367	+	read00001724	+	19820	386M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002367	+	read00000525	-	596	386M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002416	+	read00001595	-	10812	2126M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002437	-	read00000938	-	56M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00002437	+	read00002366	-	67M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002493	+	read00002009	+	30	54M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002495	+	read00001572	-	2643	222M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002495	+	read00001724	-	20905	222M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002546	+	read00001292	-	13305	139M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002575	-	read00001159	-	5818M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00002575	+	read00001572	-	1718M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00002575	-	read00000792	-	3760M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002575	+	read00000552	+	5708M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002587	-	read00001304	+	10399M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002587	+	read00001724	-	8318M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002608	+	read00000101	-	1025	5914M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002640	-	read00000889	+	13036M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002640	+	read00002990	-	13491M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002651	-	read00001120	-	4181M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002651	+	read00003519	+	4480M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002657	+	read00001986	+	63M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002657	+	read00002223	+	30	66M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002657	+	read00002366	+	110	66M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002668	+	read00000994	+	2725	2632M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002670	+	read00000101	+	4043	3511M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002683	+	read00001986	-	38	87M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002683	-	read00001979	+	53M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002683	-	read00001979	+	53M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002683	+	read00003025	-	72M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002683	+	read00000218	-	63M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002700	-	read00000567	-	835M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002700	+	read00001050	+	851M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002737	-	read00000499	-	714M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002737	+	read00001946	-	171M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002755	-	read00001288	+	4325M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002755	+	read00000681	-	4586M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002830	+	read00000218	+	101M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002830	-	read00003240	-	92M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002830	+	read00000218	+	101M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002830	-	read00003240	-	92M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002830	+	read00001986	+	42	113M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002852	+	read00001595	-	6356	1407M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002893	+	read00000526	+	3	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00002893	+	read00000505	+	3	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00002893	+	read00000931	+	5	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00002893	+	read00000668	+	4	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00002893	+	read00000673	+	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00002893	+	read00000507	+	1	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00002893	+	read00000823	+	1	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00002893	+	read00001321	+	3	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00002893	+	read00000639	+	4	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00002893	+	read00000893	+	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00002893	+	read00001427	+	0	76M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002893	+	read00001138	+	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00002893	+	read00001291	+	71M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00002893	+	read00001436	+	4	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00002893	+	read00000962	+	75M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00002893	+	read00002062	+	0	76M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00002902	+	read00000403	-	1337	3534M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002926	-	read00002009	+	76M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002942	+	read00000801	+	0	2618M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002990	-	read00001724	-	11887M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002990	+	read00000881	-	22613M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00002990	-	read00000871	-	5320M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00002994	+	read00000534	-	0	2895M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00002999	+	read00002926	+	46	54M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00003007	+	read00000966	+	11	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003007	+	read00000967	+	4	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003007	+	read00000781	+	5	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003007	+	read00000526	+	7	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003007	+	read00000992	+	0	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00003007	+	read00001205	+	73M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00003007	+	read00000902	+	0	74M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00003007	+	read00000893	+	4	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003007	+	read00001262	+	7	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003007	+	read00002668	+	1	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003007	+	read00000625	+	12	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003007	+	read00000367	+	2	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003007	+	read00003385	+	8	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003025	+	read00001986	+	26	76M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003025	-	read00003240	-	75M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003025	+	read00002683	-	73M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00003054	+	read00000526	+	4	77M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00003054	-	read00003487	-	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003054	+	read00000505	+	4	77M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003054	+	read00000931	+	7	77M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003054	+	read00000823	+	3	77M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003054	+	read00000893	+	1	77M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003054	+	read00001427	+	2	77M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00003054	+	read00001436	+	6	77M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003054	+	read00000962	+	1	77M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003078	+	read00000101	-	1172	1104M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003082	-	read00000949	+	3215M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003082	+	read00001288	+	3447M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00003084	+	read00003378	-	866	3700M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00003097	+	read00002009	+	22	67M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00003109	+	read00002926	-	35	72M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00003139	+	read00002926	-	46	61M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00003188	+	read00003240	+	35	67M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00003188	+	read00001986	+	3	67M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00003188	+	read00002830	+	35	67M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00003188	+	read00002366	+	116	67M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00003192	+	read00002009	+	17	58M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003216	-	read00001304	+	10109M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003216	+	read00001724	-	8315M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003240	+	read00000218	+	75M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003240	+	read00001986	+	143M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00003240	+	read00002366	+	28	144M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003240	+	read00003025	+	77M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003245	+	read00001724	+	6962M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00003245	-	read00001188	-	9999M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003245	+	read00001241	+	9739M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00003285	+	read00003378	-	21	31974M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003317	-	read00000909	+	3017M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003317	+	read00001035	-	3474M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00003319	+	read00002961	+	422	765M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00003369	+	read00000050	+	136	1329M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00003373	+	read00001393	+	3566	118M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00003373	+	read00001127	-	8007	118M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003378	+	read00001476	+	9738M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003383	-	read00001595	-	6067M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003383	+	read00000902	+	5338M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003385	-	read00001031	+	1649M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003385	+	read00000979	-	3836M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003406	-	read00000015	+	1086M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003406	+	read00000992	+	933M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00003406	+	read00002990	-	29133	1176M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003417	-	read00000396	-	72M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003417	+	read00003285	-	16727	6437M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00003479	+	read00001031	+	1850	1397M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00003487	+	read00001453	+	3	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003487	+	read00000526	+	3	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003487	+	read00000575	+	3	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003487	+	read00000871	+	3	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003487	+	read00003245	+	2	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003487	+	read00000505	+	3	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003487	+	read00000931	+	6	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003487	+	read00000668	+	4	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003487	+	read00001111	+	3	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003487	+	read00000507	+	2	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003487	+	read00000823	+	2	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00003487	+	read00001163	+	70M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003487	+	read00001321	+	4	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003487	+	read00000639	+	5	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003487	+	read00000893	+	0	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00003487	-	read00000439	-	71M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00003487	+	read00003054	+	73M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003487	+	read00001436	+	5	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003487	+	read00000962	+	0	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+C	read00003487	+	read00002062	+	1	74M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00003519	-	read00001107	+	5396M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003519	+	read00001390	+	5915M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003520	-	read00001427	+	2997M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003520	+	read00000063	+	9931M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00003524	+	read00001593	+	838	660M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+C	read00003525	+	read00001564	-	3671	311M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003566	-	read00000655	+	1769M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003566	+	read00001598	+	1378M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003593	+	read00001724	+	4424M	ic:i:0	iu:i:0	ib:i:0	ir:i:0
+L	read00003593	-	read00001261	-	21116M	ic:i:1	iu:i:0	ib:i:0	ir:i:0
+L	read00003593	+	read00000945	-	23926M	ic:i:1	iu:i:0	ib:i:0	ir:i:0

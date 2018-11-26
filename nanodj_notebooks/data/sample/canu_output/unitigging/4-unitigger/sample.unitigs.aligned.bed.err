@@ -1,0 +1,9 @@
+-- Reading BED './sample.unitigs.bed'.
+bed:  Loaded 50 records.
+-- Loading sequences from tigStore '../sample.utgStore' version 2.
+-- Loading sequences from tigStore '../sample.ctgStore' version 2.
+-- Aligning 50 records using 2 threads.
+-- Writing BED './sample.unitigs.aligned.bed'.
+-- Cleaning up.
+-- Aligned     50 unitigs to contigs, failed      0
+Bye.

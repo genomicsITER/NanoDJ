@@ -1,0 +1,141 @@
+
+Found perl:
+   /usr/bin/perl
+   This is perl 5, version 22, subversion 1 (v5.22.1) built for x86_64-linux-gnu-thread-multi
+
+Found java:
+   /usr/bin/java
+   openjdk version "1.8.0_181"
+
+Found canu:
+   /home/jovyan/software/canu/Linux-amd64/bin/canu
+   Canu snapshot v1.8 +43 changes (r9253 ceda4d6ec5d7a3c9e261908314dcfa80562e6e9a)
+
+Running job 1 based on command line options.
+
+STRING_NUM_BITS          31
+OFFSET_BITS              31
+STRING_NUM_MASK          2147483647
+OFFSET_MASK              2147483647
+MAX_STRING_NUM           2147483647
+
+Hash_Mask_Bits           22
+bgnHashID                1
+bgnHashID                3604
+Max_Hash_Data_Len        4085118
+Max_Hash_Load            0.800000
+Kmer Length              22
+Min Overlap Length       50
+Max Error Rate           0.120000
+Min Kmer Matches         0
+
+Num_PThreads             2
+
+sizeof(Hash_Bucket_t)    216
+sizeof(Check_Vector_t)   4
+sizeof(Hash_Frag_Info_t) 4
+
+HASH_TABLE_SIZE          4194304
+
+hash table size:         864 MB
+hash check array         16 MB
+string info              0 MB
+string start             0 MB
+
+Initializing 2 work areas.
+Build_Hash_Index from 1 to 3604
+
+Found 1525 reads with length 4085118 to load; 2079 skipped by being too short; 0 skipped per library restriction
+String_Ct:           0/        3604  totalLen:          79/     4085118  Hash_Entries:          57/    70464307  Load: 0.00%
+HASH LOADING STOPPED: curID            3593 out of         3604
+HASH LOADING STOPPED: length        4085118 out of      4085118 max.
+HASH LOADING STOPPED: entries       2005417 out of     70464307 max (load 2.28).
+
+Read 57 kmers to mark to skip
+
+
+Range: 1-3604.  Store has 3604 reads.
+Chunk: 226 reads/thread -- (G.endRefID=3604 - G.bgnRefID=1) / G.Num_PThreads=2 / 8
+
+Starting 1-3604 with 226 per thread
+
+Thread 01 processes reads 227-452
+Thread 00 processes reads 1-226
+Thread 01 writes    reads 227-452 (1498 overlaps 1498/146/0 kmer hits with/without overlap/skipped)
+Thread 01 processes reads 453-678
+Thread 00 writes    reads 1-226 (1226 overlaps 1226/335/0 kmer hits with/without overlap/skipped)
+Thread 00 processes reads 679-904
+Thread 01 writes    reads 453-678 (4367 overlaps 4367/2342/0 kmer hits with/without overlap/skipped)
+Thread 01 processes reads 905-1130
+Thread 00 writes    reads 679-904 (3566 overlaps 3566/1648/0 kmer hits with/without overlap/skipped)
+Thread 00 processes reads 1131-1356
+Thread 01 writes    reads 905-1130 (3486 overlaps 3486/1136/0 kmer hits with/without overlap/skipped)
+Thread 01 processes reads 1357-1582
+Thread 01 writes    reads 1357-1582 (1021 overlaps 1021/460/0 kmer hits with/without overlap/skipped)
+Thread 01 processes reads 1583-1808
+Thread 00 writes    reads 1131-1356 (2053 overlaps 2053/701/0 kmer hits with/without overlap/skipped)
+Thread 00 processes reads 1809-2034
+Thread 00 writes    reads 1809-2034 (197 overlaps 197/95/0 kmer hits with/without overlap/skipped)
+Thread 00 processes reads 2035-2260
+Thread 00 writes    reads 2035-2260 (158 overlaps 158/65/0 kmer hits with/without overlap/skipped)
+Thread 00 processes reads 2261-2486
+Thread 00 writes    reads 2261-2486 (109 overlaps 109/38/0 kmer hits with/without overlap/skipped)
+Thread 00 processes reads 2487-2712
+Thread 00 writes    reads 2487-2712 (127 overlaps 127/58/0 kmer hits with/without overlap/skipped)
+Thread 00 processes reads 2713-2938
+Thread 00 writes    reads 2713-2938 (63 overlaps 63/26/0 kmer hits with/without overlap/skipped)
+Thread 00 processes reads 2939-3164
+Thread 00 writes    reads 2939-3164 (69 overlaps 69/33/0 kmer hits with/without overlap/skipped)
+Thread 00 processes reads 3165-3390
+Thread 01 writes    reads 1583-1808 (264 overlaps 264/77/0 kmer hits with/without overlap/skipped)
+Thread 01 processes reads 3391-3604
+Thread 01 writes    reads 3391-3604 (11 overlaps 11/4/0 kmer hits with/without overlap/skipped)
+Thread 00 writes    reads 3165-3390 (32 overlaps 32/20/0 kmer hits with/without overlap/skipped)
+Build_Hash_Index from 3594 to 3604
+
+Found 0 reads with length 0 to load; 11 skipped by being too short; 0 skipped per library restriction
+HASH LOADING STOPPED: curID            3604 out of         3604
+HASH LOADING STOPPED: length              0 out of      4085118 max.
+HASH LOADING STOPPED: entries             0 out of     70464307 max (load 0.00).
+
+Read 57 kmers to mark to skip
+
+
+Range: 1-3604.  Store has 3604 reads.
+Chunk: 226 reads/thread -- (G.endRefID=3604 - G.bgnRefID=1) / G.Num_PThreads=2 / 8
+
+Starting 1-3604 with 226 per thread
+
+Thread 00 processes reads 1-226
+Thread 01 processes reads 227-452
+Thread 01 writes    reads 227-452 (0 overlaps 0/0/0 kmer hits with/without overlap/skipped)
+Thread 01 processes reads 453-678
+Thread 00 writes    reads 1-226 (0 overlaps 0/0/0 kmer hits with/without overlap/skipped)
+Thread 00 processes reads 679-904
+Thread 01 writes    reads 453-678 (0 overlaps 0/0/0 kmer hits with/without overlap/skipped)
+Thread 01 processes reads 905-1130
+Thread 00 writes    reads 679-904 (0 overlaps 0/0/0 kmer hits with/without overlap/skipped)
+Thread 00 processes reads 1131-1356
+Thread 01 writes    reads 905-1130 (0 overlaps 0/0/0 kmer hits with/without overlap/skipped)
+Thread 01 processes reads 1357-1582
+Thread 00 writes    reads 1131-1356 (0 overlaps 0/0/0 kmer hits with/without overlap/skipped)
+Thread 00 processes reads 1583-1808
+Thread 01 writes    reads 1357-1582 (0 overlaps 0/0/0 kmer hits with/without overlap/skipped)
+Thread 01 processes reads 1809-2034
+Thread 00 writes    reads 1583-1808 (0 overlaps 0/0/0 kmer hits with/without overlap/skipped)
+Thread 00 processes reads 2035-2260
+Thread 01 writes    reads 1809-2034 (0 overlaps 0/0/0 kmer hits with/without overlap/skipped)
+Thread 01 processes reads 2261-2486
+Thread 00 writes    reads 2035-2260 (0 overlaps 0/0/0 kmer hits with/without overlap/skipped)
+Thread 00 processes reads 2487-2712
+Thread 01 writes    reads 2261-2486 (0 overlaps 0/0/0 kmer hits with/without overlap/skipped)
+Thread 01 processes reads 2713-2938
+Thread 00 writes    reads 2487-2712 (0 overlaps 0/0/0 kmer hits with/without overlap/skipped)
+Thread 00 processes reads 2939-3164
+Thread 01 writes    reads 2713-2938 (0 overlaps 0/0/0 kmer hits with/without overlap/skipped)
+Thread 01 processes reads 3165-3390
+Thread 00 writes    reads 2939-3164 (0 overlaps 0/0/0 kmer hits with/without overlap/skipped)
+Thread 00 processes reads 3391-3604
+Thread 01 writes    reads 3165-3390 (0 overlaps 0/0/0 kmer hits with/without overlap/skipped)
+Thread 00 writes    reads 3391-3604 (0 overlaps 0/0/0 kmer hits with/without overlap/skipped)
+Bye.

@@ -1,0 +1,36 @@
+PARAMETERS:
+----------
+     50    (reads trimmed below this many bases are deleted)
+ 0.1200    (use overlaps at or below this fraction error)
+INPUT READS:
+-----------
+  1525 reads      9636986 bases (reads processed)
+  2079 reads      8730597 bases (reads not processed, previously deleted)
+     0 reads            0 bases (reads not processed, in a library where trimming isn't allowed)
+
+PROCESSED:
+--------
+     0 reads            0 bases (no overlaps)
+   156 reads       922509 bases (no coverage after adjusting for trimming done already)
+     0 reads            0 bases (processed for chimera)
+     0 reads            0 bases (processed for spur)
+  1369 reads      8714477 bases (processed for subreads)
+
+READS WITH SIGNALS:
+------------------
+     0 reads            0 signals (number of 5' spur signal)
+     0 reads            0 signals (number of 3' spur signal)
+     0 reads            0 signals (number of chimera signal)
+     0 reads            0 signals (number of subread signal)
+
+SIGNALS:
+-------
+     0 reads            0 bases (size of 5' spur signal)
+     0 reads            0 bases (size of 3' spur signal)
+     0 reads            0 bases (size of chimera signal)
+     0 reads            0 bases (size of subread signal)
+
+TRIMMING:
+--------
+     0 reads            0 bases (trimmed from the 5' end of the read)
+     0 reads            0 bases (trimmed from the 3' end of the read)
