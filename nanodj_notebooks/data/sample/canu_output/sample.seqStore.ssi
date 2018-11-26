@@ -1,7 +1,0 @@
-########################################
-#  nanopore-raw: /home/jovyan/notebooks/data/sample/reads.fastq
-#
-name   reads
-preset nanopore-raw
-/home/jovyan/notebooks/data/sample/reads.fastq
-
