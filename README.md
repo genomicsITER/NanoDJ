@@ -19,7 +19,7 @@ Clone the repository and pull the image from [Docker Hub](https://hub.docker.com
 ```
 git clone https://github.com/genomicsITER/NanoDJ.git
 cd NanoDJ
-docker pull hecrp/nanodj:latest
+docker pull genomicsiter/nanodj:latest
 ```
 
 *The NanoDJ image can be also built locally using *docker build -t nanodj:latest .*

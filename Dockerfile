@@ -21,7 +21,7 @@ RUN apt-get update && \
     python3-h5py python3-numpy python3-dateutil python3-progressbar \
     libboost-filesystem1.58.0 libboost-program-options1.58.0 \
     libboost-system1.58.0 libboost-log1.58.0 libboost-thread1.58.0 \
-    libboost-python1.58.0 graphviz
+    libboost-python1.58.0 graphviz parallel
 
 
 RUN pip install bash_kernel biopython nanosim-h jupyterlab HTSeq && \
