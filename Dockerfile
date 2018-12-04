@@ -7,6 +7,7 @@ WORKDIR /home/jovyan/software
 
 RUN apt-get update && \
     apt-get install -y \
+    autoconf \
     zlib1g-dev \
     cmake \
     default-jre \ 
@@ -17,6 +18,7 @@ RUN apt-get update && \
     strace \
     libhdf5-cpp-11 \
     libbz2-dev \ 
+    liblzma-dev ncurses-dev libncurses5-dev libncursesw5-dev \ 
     python3 python3-setuptools libboost-all-dev \
     python3-h5py python3-numpy python3-dateutil python3-progressbar \
     libboost-filesystem1.58.0 libboost-program-options1.58.0 \
@@ -91,7 +93,9 @@ RUN echo '***********************************' && \
     echo '*******Installing samtools  *******' && \
     echo '***********************************' && \
     wget "https://sourceforge.net/projects/samtools/files/samtools/1.5/samtools-1.5.tar.bz2" && \
-    tar -xvjf samtools-1.5.tar.bz2 && rm samtools-1.5.tar.bz2 
+    tar -xvjf samtools-1.5.tar.bz2 && rm samtools-1.5.tar.bz2 && \
+    cd samtools-1.5 && autoheader && autoconf -Wno-syntax  && \
+    ./configure && make && make install && cd ..
 
 RUN echo '***********************************' && \
     echo '*******Installing SPAdes  *******' && \
@@ -130,6 +134,7 @@ RUN echo '***********************************' && \
     tar -xzvf MaSuRCA-3.2.8.tar.gz && \
     rm MaSuRCA-3.2.8.tar.gz && \
     cd MaSuRCA-3.2.8 && ./install.sh && \
+    PERL_MM_USE_DEFAULT=1 perl -MCPAN -e 'install Statistics::Descriptive' && \ 
     find . -name '*.o' -exec rm -f {} \; && \
     cd .. 
 
