@@ -22,12 +22,12 @@ cd NanoDJ
 docker pull genomicsiter/nanodj:latest
 ```
 
-*The NanoDJ image can be also built locally using *docker build -t nanodj:latest .*
+*The NanoDJ image can be also built locally using *docker build -t genomicsiter/nanodj:latest .*
 
 Create a container with the image:
 
 ```
-docker run -it --rm -p 8888:8888 -v /path/to/nanodjrepo/nanodj_notebooks:/home/jovyan/notebooks nanodj:latest
+docker run -it --rm -p 8888:8888 -v /path/to/nanodjrepo/nanodj_notebooks:/home/jovyan/notebooks genomicsiter/nanodj:latest
 ```
 In order to spawn the Bandage GUI from NanoDJ on your machine, you should run the container setting the [DISPLAY](https://askubuntu.com/questions/432255/what-is-the-display-environment-variable) environment variable and mounting the [X11](https://en.wikipedia.org/wiki/X_Window_System) socket as shown below. This is only valid for Linux users:
 
@@ -36,7 +36,7 @@ docker run -it --rm -p 8888:8888 \
            -e DISPLAY=$DISPLAY \  
            -v /tmp/.X11-unix:/tmp/.X11-unix \  
            -v /path/to/NanoDJ/nanodj_notebooks:/home/jovyan/notebooks \  
-           nanodj:latest
+           genomicsiter/nanodj:latest
 ```
 
 After running the *docker run* command, open  the localhost:8888/*token* link that appears in the output after the Jupyter Lab instance is started.
