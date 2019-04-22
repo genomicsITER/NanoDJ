@@ -81,7 +81,8 @@ With this command we change the owner recursively setting the UID and GID with t
 
 **Streptococcus agalactiae Illumina reads (PE300) and R9.0 SpotON FAST5 files:**
 
-- To be released.
+- MinION reads: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA451111
+- Illumina MiSeq reads: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA451107
 
 ### **Getting help with NanoDJ**
 
