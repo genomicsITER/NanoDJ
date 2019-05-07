@@ -17,7 +17,7 @@ RUN echo '***********************************' && \
 RUN echo '***********************************' && \
     echo '*******Installing ncbi-blast ******' && \
     echo '***********************************' && \
-    wget "https://ftp.ncbi.nlm.nih.gov/blast/executables/LATEST/ncbi-blast-2.7.1+-x64-linux.tar.gz" && \
+    wget "https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.7.1/ncbi-blast-2.7.1+-x64-linux.tar.gz" && \
     tar zxvpf ncbi-blast-2.7.1+-x64-linux.tar.gz && \ 
     rm ncbi-blast-2.7.1+-x64-linux.tar.gz
 
