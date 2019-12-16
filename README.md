@@ -1,5 +1,5 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/genomicsITER/NanoDJ/binder)
-[![VICE](https://cyverse-nanodj.readthedocs-hosted.com/en/latest/_images/vice_badge.png)](https://de.cyverse.org/de/?type=apps&app-id=b0e5bdc4-6226-11e9-a28f-008cfa5ae621&system-id=de)
+<a href="https://de.cyverse.org/de/?type=quick-launch&quick-launch-id=1296e3c5-329a-44d6-8c3b-a57a3fe80695&app-id=b0e5bdc4-6226-11e9-a28f-008cfa5ae621" target="_blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a>
 
 
 
@@ -11,7 +11,7 @@ NanoDJ is a [Jupyter](http://jupyter.org/) notebook integration of tools for sim
 
 NanoDJ is built as a [Docker](https://www.docker.com/) container that runs a [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/) instance. The user can work with ONT data using the notebooks that are provided or open a new Jupyter Lab session and run the included software packages.
 
-This project is now integrated in [VICE](https://cyverse-visual-interactive-computing-environment.readthedocs-hosted.com/en/latest/getting_started/about.html), a visual and interactive computing environment which is part of [CyVerse](https://www.cyverse.org/), a project that consist of platforms, tools and services built in order to provide life scientists with powerful computational infrastructure to handle huge datasets and complex analyses.
+This project is now integrated in [VICE](https://cyverse-visual-interactive-computing-environment.readthedocs-hosted.com/en/latest/getting_started/about.html), a visual and interactive computing environment which is part of [CyVerse](https://www.cyverse.org/), a project that consist of platforms, tools and services built in order to provide life scientists with powerful computational infrastructure to handle huge datasets and complex analyses. Full intructions of how to launch a NanoDJ analysis in VICE in DE can be found [here](https://wiki.cyverse.org/wiki/pages/viewpage.action?pageId=45322621)
 
 *NanoDJ has been tested using a clean Ubuntu virtual machine only with Docker v1.13.1 installed*
 
